@@ -10,4 +10,9 @@ You can follow me on these platforms to get more information about me and follow
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook 5000 arkadaş ekleme &lpar; süreli&rpar;](https://yuceltoluyag.github.io//facebook-5000-arkadas-ekleme-sureli-v2/)
+- [Facebook Gruba Toplu Arkadaş Ekleme Yeni Version](https://yuceltoluyag.github.io//facebook-toplu-grup-2021/)
+- [E-Sigara Tecrübelerim](https://yuceltoluyag.github.io//elektronik-sigara-zararlimi-faydalimi/)
+- [Newsboat RSS Feeds Kullanımı](https://yuceltoluyag.github.io//newsboat-kullanimi/)
+- [Arch Linux’ta NTFS Nasıl Yapılandırılır](https://yuceltoluyag.github.io//archlinux-ntfs-nasil-yapilandirilir/)
 <!-- BLOG-POST-LIST:END -->
