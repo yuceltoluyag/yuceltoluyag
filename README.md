@@ -7,8 +7,7 @@ You can follow me on these platforms to get more information about me and follow
 
 [![Latest blog post workflow](https://github.com/yuceltoluyag/yuceltoluyag/actions/workflows/main.yml/badge.svg)](https://github.com/yuceltoluyag/yuceltoluyag/actions/workflows/main.yml)
 
-# Latest Blog posts
+# Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
