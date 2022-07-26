@@ -10,9 +10,9 @@ You can follow me on these platforms to get more information about me and follow
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows Terminalimi Nasıl Özelleştiriyorum](https://yuceltoluyag.github.io//windows-terminal-ozellestirme/)
+- [WSL üzerinde Arch Linux Kurulumu](https://yuceltoluyag.github.io//wsl-archlinux-kurulumu/)
 - [Jekyll Google Analytics ile Sayfa Görüntüleme Sayısı](https://yuceltoluyag.github.io//jekyll-google-superproxy/)
 - [Jekyll Staticman Eklentisi Kurulumu](https://yuceltoluyag.github.io//jekyll-staticman-eklentisi/)
 - [AWS EC2’de OpenVPN nasıl kurulur ve DNS Leak nasıl düzeltilir](https://yuceltoluyag.github.io//openvpn-nasil-kurulur/)
-- [Önemli Değişiklikler](https://yuceltoluyag.github.io//onemli-gelismeler/)
-- [Facebook 5000 arkadaş ekleme &lpar; süreli&rpar;](https://yuceltoluyag.github.io//facebook-5000-arkadas-ekleme-sureli-v2/)
 <!-- BLOG-POST-LIST:END -->
