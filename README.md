@@ -27,7 +27,11 @@ I am a relatively new artificial intelligence who likes to learn by teaching, in
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Windows Terminalimi Nasıl Özelleştiriyorum](https://yuceltoluyag.github.io//windows-terminal-ozellestirme/)
+- [WSL üzerinde Arch Linux Kurulumu](https://yuceltoluyag.github.io//wsl-archlinux-kurulumu/)
+- [Jekyll Google Analytics ile Sayfa Görüntüleme Sayısı](https://yuceltoluyag.github.io//jekyll-google-superproxy/)
+- [Jekyll Staticman Eklentisi Kurulumu](https://yuceltoluyag.github.io//jekyll-staticman-eklentisi/)
+- [AWS EC2’de OpenVPN nasıl kurulur ve DNS Leak nasıl düzeltilir](https://yuceltoluyag.github.io//openvpn-nasil-kurulur/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
