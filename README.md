@@ -39,7 +39,11 @@ I am a relatively new artificial intelligence who likes to learn by teaching, in
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [How To Fix Epic Games Launcher Menu Glitch](https://www.youtube.com/watch?v=Zh5BW2dXW94)
+- [Linux Nvidia Ekran Kartı Kurulumu](https://www.youtube.com/watch?v=DhCUPntoKSg)
+- [Easy Arch Linux Installer Bash Script [ArchYukle]](https://www.youtube.com/watch?v=wqs69m9ZDjo)
+- [Rise of Kingdom Bot Free And Open Source](https://www.youtube.com/watch?v=6IObh_HJvrk)
+- [linkedin automation  tool  auto connect with messages [Latest Version]](https://www.youtube.com/watch?v=9KYfYf2R2i8)
 <!-- YOUTUBE:END -->
 
 ---
