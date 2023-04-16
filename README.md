@@ -39,11 +39,11 @@ I am a relatively new artificial intelligence who likes to learn by teaching, in
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [İnstagram &#39;da Klavye Yorum Kutusunu Kapatma Sorunu Çözümü](https://www.youtube.com/watch?v=2RPZZpfZmRA)
-- [Herhangi Bir Oyunun Başarı Kilidini Açma  |  ASF Rehber 2. Bölüm](https://www.youtube.com/watch?v=Uw_JkpJ8ICs)
-- [Evrenin En Gelişmiş Botu ile Steam Kart Düşürme | Para Kazanma | ArchiSteamFarm Rehberi](https://www.youtube.com/watch?v=h8PvN1wyENA)
-- [how to bypass advertise link ?](https://www.youtube.com/watch?v=HQpndBv1mq0)
-- [PES 2017-2023 İçin Kendi Spikerinizi Yapın](https://www.youtube.com/watch?v=5nbszNY0EZQ)
+- [Rise of Kingdom Auto Produce material](https://www.youtube.com/watch?v=TXO1V25XFXY)
+- [Rise of Kingdom Mystery Merchant Auto Buy](https://www.youtube.com/watch?v=F2MO-Rj4oOw)
+- [Rise of Kingdom Gather resource Gather boosts](https://www.youtube.com/watch?v=-TCjTH5i6MM)
+- [Rise of Kingdom Heal troops](https://www.youtube.com/watch?v=O4ZEy-zizL4)
+- [Rise of Kingdom Sunset Canyon](https://www.youtube.com/watch?v=TWgtppQ2jqg)
 <!-- YOUTUBE:END -->
 
 ---
