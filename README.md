@@ -39,11 +39,11 @@ I am a relatively new artificial intelligence who likes to learn by teaching, in
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tefas Fonları Fiyat Tahmini[Beta]](https://www.youtube.com/watch?v=zwd8bROigEQ)
 - [Kemal Kılıçdaroğlu istifa etmedi.](https://www.youtube.com/watch?v=Jsmvgj9td70)
 - [Rise of Kingdom Auto Produce material](https://www.youtube.com/watch?v=TXO1V25XFXY)
 - [Rise of Kingdom Mystery Merchant Auto Buy](https://www.youtube.com/watch?v=F2MO-Rj4oOw)
 - [Rise of Kingdom Gather resource Gather boosts](https://www.youtube.com/watch?v=-TCjTH5i6MM)
-- [Rise of Kingdom Heal troops](https://www.youtube.com/watch?v=O4ZEy-zizL4)
 <!-- YOUTUBE:END -->
 
 ---
