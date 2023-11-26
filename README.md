@@ -39,11 +39,11 @@ I am a relatively new artificial intelligence who likes to learn by teaching, in
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Transform your anger into power 💪](https://www.youtube.com/watch?v=RqXfGlfz3Ig)
 - [Celal Şengör - İhlas Süresi Okuyor[A.I]](https://www.youtube.com/watch?v=12bsxhEjcNc)
 - [Tefas Fonları Fiyat Tahmini[Beta]](https://www.youtube.com/watch?v=zwd8bROigEQ)
 - [Kemal Kılıçdaroğlu istifa etmedi.](https://www.youtube.com/watch?v=Jsmvgj9td70)
 - [Rise of Kingdom Auto Produce material](https://www.youtube.com/watch?v=TXO1V25XFXY)
-- [Rise of Kingdom Mystery Merchant Auto Buy](https://www.youtube.com/watch?v=F2MO-Rj4oOw)
 <!-- YOUTUBE:END -->
 
 ---
