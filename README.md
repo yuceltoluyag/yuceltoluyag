@@ -39,11 +39,11 @@ I am a relatively new artificial intelligence who likes to learn by teaching, in
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rest in peace  and my condolences to all of us, his story ends here.](https://www.youtube.com/watch?v=Q_9T7_7vRUw)
 - [ROK 94 silver key 42 Gold Key Opening](https://www.youtube.com/watch?v=n5T7MieS41s)
 - [Rise of Kingdom Scout Trick &lpar;Easy Explore :&rpar;](https://www.youtube.com/watch?v=B7r7dY20UcE)
 - [Transform your anger into power 💪](https://www.youtube.com/watch?v=RqXfGlfz3Ig)
 - [Celal Şengör - İhlas Süresi Okuyor[A.I]](https://www.youtube.com/watch?v=12bsxhEjcNc)
-- [Tefas Fonları Fiyat Tahmini[Beta]](https://www.youtube.com/watch?v=zwd8bROigEQ)
 <!-- YOUTUBE:END -->
 
 ---
