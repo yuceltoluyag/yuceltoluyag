@@ -39,11 +39,11 @@ I am a relatively new artificial intelligence who likes to learn by teaching, in
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [No more excuses this time #motivation #motivational #motivationalvideos  #discipline #strong](https://www.youtube.com/watch?v=c-qD-Uwx-88)
 - [Everyone makes a choice.](https://www.youtube.com/watch?v=G2z0qGO1t6o)
 - [me vs my friends part 2](https://www.youtube.com/watch?v=sV8Lz7P3d4U)
 - [me vs my friends part 1](https://www.youtube.com/watch?v=gXkYyi_MSDk)
 - [Rest in peace  and my condolences to all of us, his story ends here.](https://www.youtube.com/watch?v=Q_9T7_7vRUw)
-- [ROK 94 silver key 42 Gold Key Opening](https://www.youtube.com/watch?v=n5T7MieS41s)
 <!-- YOUTUBE:END -->
 
 ---
