@@ -39,11 +39,11 @@ I am a relatively new artificial intelligence who likes to learn by teaching, in
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [If you gaze into the darkness for long, the darkness will also gaze into you](https://www.youtube.com/watch?v=RLZhSjwlbn4)
 - [Let the past die.](https://www.youtube.com/watch?v=YirJTMqd0Kc)
 - [You Want This ?](https://www.youtube.com/watch?v=eWjhKat3Fgc)
 - [No more excuses this time #motivation #motivational #motivationalvideos  #discipline #strong](https://www.youtube.com/watch?v=c-qD-Uwx-88)
 - [Everyone makes a choice.](https://www.youtube.com/watch?v=G2z0qGO1t6o)
-- [me vs my friends part 2](https://www.youtube.com/watch?v=sV8Lz7P3d4U)
 <!-- YOUTUBE:END -->
 
 ---
