@@ -34,11 +34,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Maybe Next Level ?](https://www.youtube.com/watch?v=B0IIHdT3Ke8)
 - [who are you really ? #WhoAreYou](https://www.youtube.com/watch?v=YckD_3mBfLo)
 - [Ｐｌａｙｓｔｏｒｅ ｓｏｒｕｍｌｕｄｕｒ](https://www.youtube.com/watch?v=jzugoBU298g)
 - [my future roadmap #python](https://www.youtube.com/watch?v=ZOKTDS890Zk)
 - [If you gaze into the darkness for long, the darkness will also gaze into you](https://www.youtube.com/watch?v=RLZhSjwlbn4)
-- [Let the past die.](https://www.youtube.com/watch?v=YirJTMqd0Kc)
 <!-- YOUTUBE:END -->
 
 ------
