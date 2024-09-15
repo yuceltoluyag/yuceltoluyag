@@ -34,11 +34,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Still Obsessed with the &#39;Best&#39; Programming Language? #code](https://www.youtube.com/watch?v=76HBb3zeItE)
 - [Final gates to open to a new tomorrow.#universe #nebula #space](https://www.youtube.com/watch?v=DWvrYn2Zu1I)
 - [A Little #Code, A Lot of Chaos: Here&#39;s My #cv  That Makes HR Jealous](https://www.youtube.com/watch?v=iMVMuADl8oc)
 - [Maybe Next Level ?](https://www.youtube.com/watch?v=B0IIHdT3Ke8)
 - [who are you really ? #WhoAreYou](https://www.youtube.com/watch?v=YckD_3mBfLo)
-- [Ｐｌａｙｓｔｏｒｅ ｓｏｒｕｍｌｕｄｕｒ](https://www.youtube.com/watch?v=jzugoBU298g)
 <!-- YOUTUBE:END -->
 
 ------
