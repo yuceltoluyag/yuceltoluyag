@@ -41,7 +41,7 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 - [Maybe Next Level ?](https://www.youtube.com/watch?v=B0IIHdT3Ke8)
 <!-- YOUTUBE:END -->
 ---------
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuceltoluyag&theme=apprentice&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuceltoluyag&theme=apprentice&no-bg=true&no-frame=true&column=6&margin-w=30&margin-h=60)
 ------
 
 
