@@ -34,11 +34,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [That&#39;s your problem.](https://www.youtube.com/watch?v=X4gMOBey7Pk)
 - [cyberG0d36](https://www.youtube.com/watch?v=Yrp9fQcWqhI)
 - [Still Obsessed with the &#39;Best&#39; Programming Language? #code](https://www.youtube.com/watch?v=76HBb3zeItE)
 - [Final gates to open to a new tomorrow.#universe #nebula #space](https://www.youtube.com/watch?v=DWvrYn2Zu1I)
 - [A Little #Code, A Lot of Chaos: Here&#39;s My #cv  That Makes HR Jealous](https://www.youtube.com/watch?v=iMVMuADl8oc)
-- [Maybe Next Level ?](https://www.youtube.com/watch?v=B0IIHdT3Ke8)
 <!-- YOUTUBE:END -->
 ---------
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuceltoluyag&theme=apprentice&no-bg=true&no-frame=true&column=6&margin-w=30&margin-h=60)
