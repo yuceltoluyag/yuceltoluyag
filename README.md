@@ -40,7 +40,8 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 - [A Little #Code, A Lot of Chaos: Here&#39;s My #cv  That Makes HR Jealous](https://www.youtube.com/watch?v=iMVMuADl8oc)
 - [Maybe Next Level ?](https://www.youtube.com/watch?v=B0IIHdT3Ke8)
 <!-- YOUTUBE:END -->
-
+---------
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuceltoluyag&theme=apprentice&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)]
 ------
 
 
