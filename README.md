@@ -34,11 +34,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Yurtdışı planları yaptıktan sonra gördüğüm rüya](https://www.youtube.com/watch?v=g6MvsyYHIPc)
+- [Atlet = Hucum Yeleği ~ Hadez.py](https://www.youtube.com/watch?v=XiVbcEYIo2Y)
+- [Bir umuttur kod yazmak &lpar; ͡° ͜ʖ ͡°&rpar;](https://www.youtube.com/watch?v=6Mzh5k7t3co)
+- [Bahçe makasıyla Python](https://www.youtube.com/watch?v=vMzk4tp9gkU)
 - [Kesmiyor Mu? – [Mc Baba.py ] | Yeni Türkçe Rap Şarkısı 2024](https://www.youtube.com/watch?v=VF3Sym9iIBM)
-- [Massaka36 &amp; Diablo 63- Yayınlanmamış Parçalar 🔥 : &rpar;](https://www.youtube.com/watch?v=5M9IJpYUH-E)
-- [That&#39;s your problem.](https://www.youtube.com/watch?v=X4gMOBey7Pk)
-- [cyberG0d36](https://www.youtube.com/watch?v=Yrp9fQcWqhI)
-- [Still Obsessed with the &#39;Best&#39; Programming Language? #code](https://www.youtube.com/watch?v=76HBb3zeItE)
 <!-- YOUTUBE:END -->
 ---------
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuceltoluyag&theme=apprentice&no-bg=true&no-frame=true&column=6&margin-w=30&margin-h=60)
