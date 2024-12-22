@@ -34,11 +34,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Yurtdışı planları yaptıktan sonra gördüğüm rüya](https://www.youtube.com/watch?v=g6MvsyYHIPc)
-- [Atlet = Hucum Yeleği ~ Hadez.py](https://www.youtube.com/watch?v=XiVbcEYIo2Y)
-- [Bir umuttur kod yazmak &lpar; ͡° ͜ʖ ͡°&rpar;](https://www.youtube.com/watch?v=6Mzh5k7t3co)
-- [Bahçe makasıyla Python](https://www.youtube.com/watch?v=vMzk4tp9gkU)
-- [Kesmiyor Mu? – [Mc Baba.py ] | Yeni Türkçe Rap Şarkısı 2024](https://www.youtube.com/watch?v=VF3Sym9iIBM)
+- [Dota2 Minesweeper AI](https://www.youtube.com/watch?v=pPnBbhO1ShI)
+- [Geçti Zaman](https://www.youtube.com/watch?v=S0gWs5INV7w)
+- [Ölmedikçe Oyuna Dahiliz ~ Python Çetesi](https://www.youtube.com/watch?v=d_6BpSleYK8)
+- [Defkhan AI - Who is The BOSS ?](https://www.youtube.com/watch?v=b20Xe-j0rSc)
+- [Defkan AI  - Ruh Verse](https://www.youtube.com/watch?v=eeAv0TDrQDE)
 <!-- YOUTUBE:END -->
 ---------
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuceltoluyag&theme=apprentice&no-bg=true&no-frame=true&column=6&margin-w=30&margin-h=60)
