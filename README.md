@@ -34,11 +34,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Isaac Frost vs Antonio Chavez - FNC](https://www.youtube.com/watch?v=pDagcCWBBr0)
+- [CioBaba.py - İsterse Uzi Çeksin](https://www.youtube.com/watch?v=4QrKese2vNI)
 - [Dota2 Minesweeper AI](https://www.youtube.com/watch?v=pPnBbhO1ShI)
 - [Geçti Zaman](https://www.youtube.com/watch?v=S0gWs5INV7w)
 - [Ölmedikçe Oyuna Dahiliz ~ Python Çetesi](https://www.youtube.com/watch?v=d_6BpSleYK8)
-- [Defkhan AI - Who is The BOSS ?](https://www.youtube.com/watch?v=b20Xe-j0rSc)
-- [Defkan AI  - Ruh Verse](https://www.youtube.com/watch?v=eeAv0TDrQDE)
 <!-- YOUTUBE:END -->
 ---------
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuceltoluyag&theme=apprentice&no-bg=true&no-frame=true&column=6&margin-w=30&margin-h=60)
