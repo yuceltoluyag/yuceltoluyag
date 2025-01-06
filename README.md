@@ -41,7 +41,14 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 - [Dota2 Minesweeper AI](https://www.youtube.com/watch?v=pPnBbhO1ShI)
 <!-- YOUTUBE:END -->
 ---------
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuceltoluyag&theme=apprentice&no-bg=true&no-frame=true&column=6&margin-w=30&margin-h=60)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=yuceltoluyag&theme=apprentice&no-bg=true&no-frame=true&column=6&margin-w=30&margin-h=60)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuceltoluyag&show_icons=true&locale=en&layout=compact" alt="yuceltoluyag" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuceltoluyag&show_icons=true&locale=en" alt="yuceltoluyag" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuceltoluyag&" alt="yuceltoluyag" /></p>
+
 ------
 
 
