@@ -34,11 +34,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LAZ Galip : Neye Verdun ?](https://www.youtube.com/watch?v=LbU5i-Ult8U)
+- [Facebook 5000 Arkadaş Ekleme Testi v2](https://www.youtube.com/watch?v=hLVCgVrfVgE)
+- [my father is d](https://www.youtube.com/watch?v=JuRWpVUoPLc)
 - [Ağzı olcaktı da anlatcaktı sokaklar](https://www.youtube.com/watch?v=jmlr1sxht3c)
 - [what&#39;s the most pain you&#39;ve ever felt](https://www.youtube.com/watch?v=om66TMmR-kE)
-- [Anlamı Yok ..](https://www.youtube.com/watch?v=KX5OzGyjEr4)
-- [Isaac Frost vs Antonio Chavez - FNC](https://www.youtube.com/watch?v=pDagcCWBBr0)
-- [CioBaba.py - İsterse Uzi Çeksin](https://www.youtube.com/watch?v=4QrKese2vNI)
 <!-- YOUTUBE:END -->
 ---------
 
