@@ -34,11 +34,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Siperlerin Tozu Dumana Karıştı: Verdun’da Büyük Çarpışma!](https://www.youtube.com/watch?v=C468cqNfY_4)
+- [Siperlerin Tozu Dumana Karıştı: Verdun’da Büyük Çarpışma!](https://www.youtube.com/watch?v=utlDCdW4djY)
+- [I&#39;m a GAMING EXPERT and I&#39;m Blown Away by Verdun Footage 2025!](https://www.youtube.com/watch?v=I6Q-SJN1wXo)
+- [Taktik Yok, Muhabbet Çok: Verdun’da Takılıyoruz!](https://www.youtube.com/watch?v=v_9Wrdn018Q)
 - [LAZ Galip : Neye Verdun ?](https://www.youtube.com/watch?v=LbU5i-Ult8U)
-- [Facebook 5000 Arkadaş Ekleme Testi v2](https://www.youtube.com/watch?v=hLVCgVrfVgE)
-- [my father is d](https://www.youtube.com/watch?v=JuRWpVUoPLc)
-- [Ağzı olcaktı da anlatcaktı sokaklar](https://www.youtube.com/watch?v=jmlr1sxht3c)
-- [what&#39;s the most pain you&#39;ve ever felt](https://www.youtube.com/watch?v=om66TMmR-kE)
 <!-- YOUTUBE:END -->
 ---------
 
