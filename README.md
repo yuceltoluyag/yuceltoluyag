@@ -34,11 +34,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ben de kornaya bayılıyorum! 😂🎶](https://www.youtube.com/watch?v=kndezex-O-Y)
+- [How To Fix Epic Games Launcher Menu Glitch](https://www.youtube.com/watch?v=WxbRAhrQVpo)
+- [Leave My Home](https://www.youtube.com/watch?v=emYDVvdqxmo)
+- [Düş gülüşse,ölümse anıları](https://www.youtube.com/watch?v=PG0KNl_T9qs)
 - [something inside me died and something new was born something dark](https://www.youtube.com/watch?v=rK2q19CE39k)
-- [Almanya Hatırası](https://www.youtube.com/watch?v=UnkY4_zXQcs)
-- [Python Youtube viewer Test | No Mic  With Music | ~ 2025](https://www.youtube.com/watch?v=utlDCdW4djY)
-- [Python Youtube viewer Test | No Mic  With Music | ~ 2025](https://www.youtube.com/watch?v=-K7TGndOBUg)
-- [let go of everything 🗿💀](https://www.youtube.com/watch?v=TpzOzgYdmjg)
 <!-- YOUTUBE:END -->
 ---------
 
