@@ -23,11 +23,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows Terminalimi Nasıl Özelleştiriyorum](https://yuceltoluyag.github.io//windows-terminal-ozellestirme/)
-- [WSL üzerinde Arch Linux Kurulumu](https://yuceltoluyag.github.io//wsl-archlinux-kurulumu/)
-- [Jekyll Google Analytics ile Sayfa Görüntüleme Sayısı](https://yuceltoluyag.github.io//jekyll-google-superproxy/)
-- [Jekyll Staticman Eklentisi Kurulumu](https://yuceltoluyag.github.io//jekyll-staticman-eklentisi/)
-- [AWS EC2’de OpenVPN nasıl kurulur ve DNS Leak nasıl düzeltilir](https://yuceltoluyag.github.io//openvpn-nasil-kurulur/)
+- [SSH ve GPG Anahtarlarını Yedekleme ve Geri Yükleme](https://yuceltoluyag.github.io/ssh-gpg-yedekleme-geri-yukleme/)
+- [Git ile GPG İmzalı Etiket Oluşturma ve Sorun Giderme](https://yuceltoluyag.github.io/git-gpg-imzali-etiket/)
+- [PowerShell Profil Sorunları ve OneDrive Kaldırma Sonrası Dizin Hatası Çözümü](https://yuceltoluyag.github.io/powershell-profil-onedrive-hatasi-cozumu/)
+- [Arch Linux Üzerinde RetroArch Kurulumu ve Yapılandırılması](https://yuceltoluyag.github.io/arch-linux-uzerinde-retroarch-kurulumu/)
+- [Arch Linux&#39;ta Conda Kurulumu ve Yönetimi](https://yuceltoluyag.github.io/arch-linux-conda-kurulumu/)
 <!-- BLOG-POST-LIST:END -->
 
 
