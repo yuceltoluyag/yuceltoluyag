@@ -23,11 +23,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git&#39;te Belirli Bir Commit&#39;e Geri Dönme ve Cherry-Pick Kullanımı](https://yuceltoluyag.github.io/git-commit-geri-donme-cherry-pick/)
+- [PowerShell 7.5.0&#39;da Pyenv-Win Kurulum Hatası ve Çözümü](https://yuceltoluyag.github.io/powershell-pyenv-win-kurulum-hatasi-cozumu/)
+- [Veda Zamanı: Rise of Kingdom Bot&#39;un Sonu](https://yuceltoluyag.github.io/veda-rise-of-kingdom-bot/)
+- [Pelican Redirect Eklentisi: Eski URL&#39;leri Sorunsuz Yönlendirin 🔄](https://yuceltoluyag.github.io/pelican-redirect-eklentisi/)
 - [SSH ve GPG Anahtarlarını Yedekleme ve Geri Yükleme](https://yuceltoluyag.github.io/ssh-gpg-yedekleme-geri-yukleme/)
-- [Git ile GPG İmzalı Etiket Oluşturma ve Sorun Giderme](https://yuceltoluyag.github.io/git-gpg-imzali-etiket/)
-- [PowerShell Profil Sorunları ve OneDrive Kaldırma Sonrası Dizin Hatası Çözümü](https://yuceltoluyag.github.io/powershell-profil-onedrive-hatasi-cozumu/)
-- [Arch Linux Üzerinde RetroArch Kurulumu ve Yapılandırılması](https://yuceltoluyag.github.io/arch-linux-uzerinde-retroarch-kurulumu/)
-- [Arch Linux&#39;ta Conda Kurulumu ve Yönetimi](https://yuceltoluyag.github.io/arch-linux-conda-kurulumu/)
 <!-- BLOG-POST-LIST:END -->
 
 
