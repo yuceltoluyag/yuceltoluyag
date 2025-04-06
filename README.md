@@ -23,11 +23,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git&#39;te Belirli Bir Commit&#39;e Geri Dönme ve Cherry-Pick Kullanımı](https://yuceltoluyag.github.io/git-commit-geri-donme-cherry-pick/)
-- [PowerShell 7.5.0&#39;da Pyenv-Win Kurulum Hatası ve Çözümü](https://yuceltoluyag.github.io/powershell-pyenv-win-kurulum-hatasi-cozumu/)
-- [Veda Zamanı: Rise of Kingdom Bot&#39;un Sonu](https://yuceltoluyag.github.io/veda-rise-of-kingdom-bot/)
-- [Pelican Redirect Eklentisi: Eski URL&#39;leri Sorunsuz Yönlendirin 🔄](https://yuceltoluyag.github.io/pelican-redirect-eklentisi/)
-- [SSH ve GPG Anahtarlarını Yedekleme ve Geri Yükleme](https://yuceltoluyag.github.io/ssh-gpg-yedekleme-geri-yukleme/)
+- [Dreame D10 Plus Gen 2 İnceleme](https://yuceltoluyag.dev/dreame-d10-plus-gen-2-inceleme/)
+- [Git&#39;te Belirli Bir Commit&#39;e Geri Dönme ve Cherry-Pick Kullanımı](https://yuceltoluyag.dev/git-commit-geri-donme-cherry-pick/)
+- [PowerShell 7.5.0&#39;da Pyenv-Win Kurulum Hatası ve Çözümü](https://yuceltoluyag.dev/powershell-pyenv-win-kurulum-hatasi-cozumu/)
+- [Veda Zamanı: Rise of Kingdom Bot&#39;un Sonu](https://yuceltoluyag.dev/veda-rise-of-kingdom-bot/)
+- [Pelican Redirect Eklentisi: Eski URL&#39;leri Sorunsuz Yönlendirin 🔄](https://yuceltoluyag.dev/pelican-redirect-eklentisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
