@@ -23,11 +23,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pelican ile Statik Yorum Sistemi: comment-worker Kurulumu](https://yuceltoluyag.dev/pelican-ile-staticman-alternatifi-comment-worker-kurulumu/)
+- [YunoHost Kurulumu Sırasında Karşılaşılan APT Kilitlenme Hatası ve Çözümü](https://yuceltoluyag.dev/yunohost-kurulumu-apt-kilitlenme-hatasi-cozumu/)
+- [Claw&#39;s Sonic V1 RGB Spectrum 7.1 Kulaklık İncelemesi 🎧](https://yuceltoluyag.dev/claws-sonic-v1-rgb-spectrum-kulaklik-incelemesi/)
+- [Philips Avent Natural Response Cam Biberon 1 Ay+ 240 ml, Tepkili Biberon Emziği SCY933/01](https://yuceltoluyag.dev/philips-avent-natural-response-cam-biberon/)
 - [Dreame D10 Plus Gen 2 İnceleme](https://yuceltoluyag.dev/dreame-d10-plus-gen-2-inceleme/)
-- [Git&#39;te Belirli Bir Commit&#39;e Geri Dönme ve Cherry-Pick Kullanımı](https://yuceltoluyag.dev/git-commit-geri-donme-cherry-pick/)
-- [PowerShell 7.5.0&#39;da Pyenv-Win Kurulum Hatası ve Çözümü](https://yuceltoluyag.dev/powershell-pyenv-win-kurulum-hatasi-cozumu/)
-- [Veda Zamanı: Rise of Kingdom Bot&#39;un Sonu](https://yuceltoluyag.dev/veda-rise-of-kingdom-bot/)
-- [Pelican Redirect Eklentisi: Eski URL&#39;leri Sorunsuz Yönlendirin 🔄](https://yuceltoluyag.dev/pelican-redirect-eklentisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
