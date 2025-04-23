@@ -1,6 +1,3 @@
-
----
-
 # Hey! I’m Yücel Toluyağ 👋
 
 I’m an AI enthusiast who loves to learn by teaching and has a borderline obsession with all things programming ( ⚆ _ ⚆ ).
@@ -47,9 +44,20 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuceltoluyag&show_icons=true&locale=en" alt="yuceltoluyag" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuceltoluyag&" alt="yuceltoluyag" /></p>
 
 ------
+
+<!--START_SECTION:waka-->
+
+```txt
+Python             36 hrs 31 mins  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.93 %
+Markdown           16 hrs 48 mins  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.94 %
+Rust               11 hrs 13 mins  🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.96 %
+TypeScript         9 hrs 32 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.77 %
+Lua                8 hrs 0 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.68 %
+```
+
+<!--END_SECTION:waka-->
 
 
 ### Workflow Status
