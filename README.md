@@ -45,7 +45,9 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuceltoluyag&show_icons=true&locale=en" alt="yuceltoluyag" /></p>
 
 
-
+-----------
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ### Workflow Status
