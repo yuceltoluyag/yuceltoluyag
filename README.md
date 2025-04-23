@@ -37,17 +37,44 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 - [When it comes to Artificial Intelligence](https://www.youtube.com/watch?v=DTfwhTmOk2M)
 - [Madalyonu bir de ters çevir.🔄 👀](https://www.youtube.com/watch?v=WxL3D9sHIwc)
 <!-- YOUTUBE:END -->
----------
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yuceltoluyag&theme=apprentice&no-bg=true&no-frame=true&column=6&margin-w=30&margin-h=60)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuceltoluyag&show_icons=true&locale=en&layout=compact" alt="yuceltoluyag" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuceltoluyag&show_icons=true&locale=en" alt="yuceltoluyag" /></p>
-
-
 -----------
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+<!-- GitHub Readme Streak Stats - https://github.com/yuceltoluyag/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/yuceltoluyag/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yuceltoluyag's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=yuceltoluyag&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yuceltoluyag's Github Stats" src="https://yuceltoluyag-github-readme-stats.vercel.app/api/?username=yuceltoluyag&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yuceltoluyag's Top Languages" src="https://yuceltoluyag-github-readme-stats.vercel.app/api/top-langs/?username=yuceltoluyag&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="yuceltoluyag's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yuceltoluyag&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#317](https://github.com/torahcalc/torahcalc/pull/317) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+2. 💪 Opened PR [#317](https://github.com/torahcalc/torahcalc/pull/317) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+3. 🎉 Merged PR [#388](https://github.com/yuceltoluyag/readme-typing-svg/pull/388) in [yuceltoluyag/readme-typing-svg](https://github.com/yuceltoluyag/readme-typing-svg)
+4. ❗️ Opened issue [#314](https://github.com/torahcalc/torahcalc/issues/314) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+5. ❗️ Opened issue [#313](https://github.com/torahcalc/torahcalc/issues/313) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+<!--END_SECTION:activity-->
+
+</details>
 
 
 ### Workflow Status
