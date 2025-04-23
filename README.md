@@ -67,11 +67,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#317](https://github.com/torahcalc/torahcalc/pull/317) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. 💪 Opened PR [#317](https://github.com/torahcalc/torahcalc/pull/317) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-3. 🎉 Merged PR [#388](https://github.com/yuceltoluyag/readme-typing-svg/pull/388) in [yuceltoluyag/readme-typing-svg](https://github.com/yuceltoluyag/readme-typing-svg)
-4. ❗️ Opened issue [#314](https://github.com/torahcalc/torahcalc/issues/314) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. ❗️ Opened issue [#313](https://github.com/torahcalc/torahcalc/issues/313) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+1. ❌ Closed PR [#1](https://github.com/Baba-Project/minel-jekyll-theme/pull/1) in [Baba-Project/minel-jekyll-theme](https://github.com/Baba-Project/minel-jekyll-theme)
+2. ❌ Closed PR [#3](https://github.com/Baba-Project/minel-jekyll-theme/pull/3) in [Baba-Project/minel-jekyll-theme](https://github.com/Baba-Project/minel-jekyll-theme)
+3. ❌ Closed PR [#5](https://github.com/Baba-Project/minel-jekyll-theme/pull/5) in [Baba-Project/minel-jekyll-theme](https://github.com/Baba-Project/minel-jekyll-theme)
+4. 🎉 Merged PR [#11](https://github.com/Baba-Project/jekyll-staticman/pull/11) in [Baba-Project/jekyll-staticman](https://github.com/Baba-Project/jekyll-staticman)
+5. 💪 Opened PR [#11](https://github.com/Baba-Project/jekyll-staticman/pull/11) in [Baba-Project/jekyll-staticman](https://github.com/Baba-Project/jekyll-staticman)
 <!--END_SECTION:activity-->
 
 </details>
