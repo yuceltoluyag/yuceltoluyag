@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arch Linux Eski Depoların Temizlenmesi: Ne Yapmanız Gerekiyor?](https://yuceltoluyag.dev/arch-linux-eski-depolar-temizlenmesi/)
-- [Yunohost&#39;ta robots.txt Dosyası Oluşturmak](https://yuceltoluyag.dev/yunohost-robots-txt-olusturmak/)
-- [Pelican ile Statik Yorum Sistemi: comment-worker Kurulumu](https://yuceltoluyag.dev/pelican-ile-staticman-alternatifi-comment-worker-kurulumu/)
-- [YunoHost Kurulumu Sırasında Karşılaşılan APT Kilitlenme Hatası ve Çözümü](https://yuceltoluyag.dev/yunohost-kurulumu-apt-kilitlenme-hatasi-cozumu/)
-- [Claw&#39;s Sonic V1 RGB Spectrum 7.1 Kulaklık İncelemesi 🎧](https://yuceltoluyag.dev/claws-sonic-v1-rgb-spectrum-kulaklik-incelemesi/)
+- [Pelican Bloguna Mastodon Yorumları Ekleme](https://yuceltoluyag.dev/pelican-bloguna-mastodon-yorumlari-ekleme/)
+- [i3lock ile Uyku Modundan Uyanırken Otomatik Kilit Ekranı Nasıl Ayarlanır?](https://yuceltoluyag.dev/i3lock-uyku-modu-kilit-ekrani/)
+- [Raspberry Pi Nasıl Kurulur](https://yuceltoluyag.dev/raspberry-pi-nasil-kurulur/)
+- [Linux&#39;ta Disk Nasıl Sıfırlanır? Herhangi Bir Diski Güvenli Şekilde Silme Rehberi](https://yuceltoluyag.dev/linux-disk-sifirlama-rehberi/)
+- [MCP ile Tarayıcı Otomasyonunu Kolayca Başlatın: Puppeteer Sunucusu Kurulumu](https://yuceltoluyag.dev/mcp-puppeteer-sunucusu-kurulumu/)
 <!-- BLOG-POST-LIST:END -->
 
 
