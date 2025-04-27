@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Yeni intro  #youtube  #intro](https://www.youtube.com/watch?v=MPP5Djbk7io)
+- [Kaç zaman oldu, evi görmedik](https://www.youtube.com/watch?v=QD1nQ6SnKE0)
 - [Kral Yine Dirildi - 36 Boys AI](https://www.youtube.com/watch?v=SDmN81pETec)
 - [Yuri Soyka Ai](https://www.youtube.com/watch?v=bGRYQ-LFuW0)
 - [Sokak çocuklarına dağıtılmayan gocuk - Mülkiyetçi Firavunlar](https://www.youtube.com/watch?v=d9K9tUE439g)
-- [When it comes to Artificial Intelligence](https://www.youtube.com/watch?v=DTfwhTmOk2M)
-- [Madalyonu bir de ters çevir.🔄 👀](https://www.youtube.com/watch?v=WxL3D9sHIwc)
 <!-- YOUTUBE:END -->
 -----------
 
