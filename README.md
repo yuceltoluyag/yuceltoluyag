@@ -67,11 +67,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/Baba-Project/minel-jekyll-theme/pull/1) in [Baba-Project/minel-jekyll-theme](https://github.com/Baba-Project/minel-jekyll-theme)
-2. ❌ Closed PR [#3](https://github.com/Baba-Project/minel-jekyll-theme/pull/3) in [Baba-Project/minel-jekyll-theme](https://github.com/Baba-Project/minel-jekyll-theme)
-3. ❌ Closed PR [#5](https://github.com/Baba-Project/minel-jekyll-theme/pull/5) in [Baba-Project/minel-jekyll-theme](https://github.com/Baba-Project/minel-jekyll-theme)
-4. 🎉 Merged PR [#11](https://github.com/Baba-Project/jekyll-staticman/pull/11) in [Baba-Project/jekyll-staticman](https://github.com/Baba-Project/jekyll-staticman)
-5. 💪 Opened PR [#11](https://github.com/Baba-Project/jekyll-staticman/pull/11) in [Baba-Project/jekyll-staticman](https://github.com/Baba-Project/jekyll-staticman)
+1. 🗣 Commented on [#13](https://github.com/vbextreme/ghostmirror/issues/13) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
+2. 🗣 Commented on [#13](https://github.com/vbextreme/ghostmirror/issues/13) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
+3. 🗣 Commented on [#13](https://github.com/vbextreme/ghostmirror/issues/13) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
+4. ❗️ Opened issue [#13](https://github.com/vbextreme/ghostmirror/issues/13) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
+5. 🗣 Commented on [#4](https://github.com/tuncer-byte/memory-bank-MCP/issues/4) in [tuncer-byte/memory-bank-MCP](https://github.com/tuncer-byte/memory-bank-MCP)
 <!--END_SECTION:activity-->
 
 </details>
