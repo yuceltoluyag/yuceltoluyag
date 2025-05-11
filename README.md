@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Arch Linux  Dota 2 Performans Testi #archlinux #linuxgaming](https://www.youtube.com/watch?v=foUosbS6p_A)
+- [Arch Linux&#39;ta Rise of Kingdoms Kurulumu](https://www.youtube.com/watch?v=u-_21BAuPlc)
+- [Earth Spirit Gameplay - Comeback  #dota2  #linuxgaming](https://www.youtube.com/watch?v=FrB4-Qj-5oM)
+- [Stream Test | Subscribe My Channel](https://www.youtube.com/watch?v=-K7TGndOBUg)
 - [Yeni intro  #youtube  #intro](https://www.youtube.com/watch?v=MPP5Djbk7io)
-- [Kaç zaman oldu, evi görmedik](https://www.youtube.com/watch?v=QD1nQ6SnKE0)
-- [Kral Yine Dirildi - 36 Boys AI](https://www.youtube.com/watch?v=SDmN81pETec)
-- [Yuri Soyka Ai](https://www.youtube.com/watch?v=bGRYQ-LFuW0)
-- [Sokak çocuklarına dağıtılmayan gocuk - Mülkiyetçi Firavunlar](https://www.youtube.com/watch?v=d9K9tUE439g)
 <!-- YOUTUBE:END -->
 -----------
 
