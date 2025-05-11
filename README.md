@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pelican Bloguna Mastodon Yorumları Ekleme](https://yuceltoluyag.dev/pelican-bloguna-mastodon-yorumlari-ekleme/)
-- [i3lock ile Uyku Modundan Uyanırken Otomatik Kilit Ekranı Nasıl Ayarlanır?](https://yuceltoluyag.dev/i3lock-uyku-modu-kilit-ekrani/)
-- [Raspberry Pi Nasıl Kurulur](https://yuceltoluyag.dev/raspberry-pi-nasil-kurulur/)
-- [Linux&#39;ta Disk Nasıl Sıfırlanır? Herhangi Bir Diski Güvenli Şekilde Silme Rehberi](https://yuceltoluyag.dev/linux-disk-sifirlama-rehberi/)
-- [MCP ile Tarayıcı Otomasyonunu Kolayca Başlatın: Puppeteer Sunucusu Kurulumu](https://yuceltoluyag.dev/mcp-puppeteer-sunucusu-kurulumu/)
+- [Arch Linux Üzerinde Rise of Kingdoms Kurulumu &lpar;Lutris ile&rpar;](https://yuceltoluyag.dev/arch-linux-rise-of-kingdoms-kurulumu/)
+- [Linux’ta Oturum Ayarları: .xinitrc mi .xprofile mı?](https://yuceltoluyag.dev/lightdm-xprofile-xinitrc-farki/)
+- [Arch Linux&#39;ta Transmission Nasıl Kurulur ve Kullanılır?](https://yuceltoluyag.dev/arch-linux-transmission-kurulum/)
+- [GPU Soğutmasında Sıvı Metal Kullanımı ve Dikkat Edilmesi Gerekenler](https://yuceltoluyag.dev/gpu-sogutmasinda-sivi-metal-kullanimi-ve-dikkat-edilmesi-gerekenler/)
+- [Rehber: MangoHud Kullanımı ile Oyun Performansınızı İzleyin](https://yuceltoluyag.dev/mangohud-ile-oyun-performansi-izleme/)
 <!-- BLOG-POST-LIST:END -->
 
 
