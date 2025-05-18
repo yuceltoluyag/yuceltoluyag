@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nesine.com: Veraset ve İntikal Vergisi ne anlama geliyor?](https://yuceltoluyag.dev/2025-veraset-intikal-vergisi-bilgilendirme/)
+- [Linux’ta Oyunlara Türkçe Yama Nasıl Kurulur? &lpar;Detaylı Rehber&rpar;](https://yuceltoluyag.dev/linux-oyunlara-turkce-yama-kurulumu/)
 - [Arch Linux Üzerinde Rise of Kingdoms Kurulumu &lpar;Lutris ile&rpar;](https://yuceltoluyag.dev/arch-linux-rise-of-kingdoms-kurulumu/)
 - [Linux’ta Oturum Ayarları: .xinitrc mi .xprofile mı?](https://yuceltoluyag.dev/lightdm-xprofile-xinitrc-farki/)
 - [Arch Linux&#39;ta Transmission Nasıl Kurulur ve Kullanılır?](https://yuceltoluyag.dev/arch-linux-transmission-kurulum/)
-- [GPU Soğutmasında Sıvı Metal Kullanımı ve Dikkat Edilmesi Gerekenler](https://yuceltoluyag.dev/gpu-sogutmasinda-sivi-metal-kullanimi-ve-dikkat-edilmesi-gerekenler/)
-- [Rehber: MangoHud Kullanımı ile Oyun Performansınızı İzleyin](https://yuceltoluyag.dev/mangohud-ile-oyun-performansi-izleme/)
 <!-- BLOG-POST-LIST:END -->
 
 
