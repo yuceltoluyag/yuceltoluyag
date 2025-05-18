@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ne Oldu Yaram](https://www.youtube.com/watch?v=Bw9NYmCk4cw)
+- [Bol Ağlamalı Tannenberg Yayını! | Sohbet, Muhabbet ve Kaotik Anlar 😂](https://www.youtube.com/watch?v=FvYlgXuqLK4)
+- [Linux&#39;ta Türkçe Yama Kurmayı Öğrenin](https://www.youtube.com/watch?v=gNxOvmP1LPw)
+- [Linux&#39;ta Oyunlara Türkçe Yama Nasıl Kurulur? | Detaylı Anlatım](https://www.youtube.com/watch?v=mdyl6kkFTGQ)
 - [Arch Linux  Dota 2 Performans Testi #archlinux #linuxgaming](https://www.youtube.com/watch?v=foUosbS6p_A)
-- [Arch Linux&#39;ta Rise of Kingdoms Kurulumu](https://www.youtube.com/watch?v=u-_21BAuPlc)
-- [Earth Spirit Gameplay - Comeback  #dota2  #linuxgaming](https://www.youtube.com/watch?v=FrB4-Qj-5oM)
-- [Stream Test | Subscribe My Channel](https://www.youtube.com/watch?v=-K7TGndOBUg)
-- [Yeni intro  #youtube  #intro](https://www.youtube.com/watch?v=MPP5Djbk7io)
 <!-- YOUTUBE:END -->
 -----------
 
