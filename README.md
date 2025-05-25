@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ne Oldu Yaram](https://www.youtube.com/watch?v=Bw9NYmCk4cw)
-- [Bol Ağlamalı Tannenberg Yayını! | Sohbet, Muhabbet ve Kaotik Anlar 😂](https://www.youtube.com/watch?v=FvYlgXuqLK4)
-- [Linux&#39;ta Türkçe Yama Kurmayı Öğrenin](https://www.youtube.com/watch?v=gNxOvmP1LPw)
-- [Linux&#39;ta Oyunlara Türkçe Yama Nasıl Kurulur? | Detaylı Anlatım](https://www.youtube.com/watch?v=mdyl6kkFTGQ)
-- [Arch Linux  Dota 2 Performans Testi #archlinux #linuxgaming](https://www.youtube.com/watch?v=foUosbS6p_A)
+- [Valve, Linux’a hiçbir katkı yapmadı. Masal anlatmayı bırakın. 🛑🐧🧚‍♀️](https://www.youtube.com/watch?v=xgWOSnFXimM)
+- [Valve, Linux’a hiçbir katkı yapmadı. Masal anlatmayı bırakın. 🛑🐧🧚‍♀️](https://www.youtube.com/watch?v=EdJuf9bEFPg)
+- [Lütfen Linux Hakkında Yorum Yapmayın | LinuxCast](https://www.youtube.com/watch?v=kwGr1gL6f4U)
+- [Twitter’da Gündem Yapanlar Tesla’ya Biniyor, Biz Duvara Konuşuyoruz](https://www.youtube.com/watch?v=QloiEPh-GRo)
+- [Küçük Yayıncıdan Büyük Paralar mı? 2860$ Gerçek mi? | Ne Oldu Yaram ?](https://www.youtube.com/watch?v=Bw9NYmCk4cw)
 <!-- YOUTUBE:END -->
 -----------
 
