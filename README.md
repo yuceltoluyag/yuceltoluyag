@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SP Football Life 2025 | Arch Linux | Full PATCH 🐧⚽](https://www.youtube.com/watch?v=GgEl44n_mT8)
+- [SP Football Life 2025 | Arch Linux | Full PATCH 🐧⚽](https://www.youtube.com/watch?v=XGcccKCjcLI)
 - [Yeni Başlayanlar Hangi Linux Dağıtımını Seçmeli?🐧](https://www.youtube.com/watch?v=IDjtbPEDk3w)
 - [Valve, Linux’a hiçbir katkı yapmadı. Masal anlatmayı bırakın. 🛑🐧🧚‍♀️](https://www.youtube.com/watch?v=xgWOSnFXimM)
 - [Lütfen Linux Hakkında Yorum Yapmayın | LinuxCast](https://www.youtube.com/watch?v=kwGr1gL6f4U)
-- [Twitter’da Gündem Yapanlar Tesla’ya Biniyor, Biz Duvara Konuşuyoruz](https://www.youtube.com/watch?v=QloiEPh-GRo)
-- [Küçük Yayıncıdan Büyük Paralar mı? 2860$ Gerçek mi? | Ne Oldu Yaram ?](https://www.youtube.com/watch?v=Bw9NYmCk4cw)
 <!-- YOUTUBE:END -->
 -----------
 
