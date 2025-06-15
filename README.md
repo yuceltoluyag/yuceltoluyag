@@ -31,8 +31,8 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [RDR1 &amp; RDR2 Türkçe Yama Kurulumu &lpar;Linux&rpar; – Vahşi Batı&#39;da Türkçe Keyfi! 🇹🇷🐧](https://www.youtube.com/watch?v=XGcccKCjcLI)
 - [SP Football Life 2025 | Arch Linux | Full PATCH 🐧⚽](https://www.youtube.com/watch?v=GgEl44n_mT8)
-- [SP Football Life 2025 | Arch Linux | Full PATCH 🐧⚽](https://www.youtube.com/watch?v=XGcccKCjcLI)
 - [Yeni Başlayanlar Hangi Linux Dağıtımını Seçmeli?🐧](https://www.youtube.com/watch?v=IDjtbPEDk3w)
 - [Valve, Linux’a hiçbir katkı yapmadı. Masal anlatmayı bırakın. 🛑🐧🧚‍♀️](https://www.youtube.com/watch?v=xgWOSnFXimM)
 - [Lütfen Linux Hakkında Yorum Yapmayın | LinuxCast](https://www.youtube.com/watch?v=kwGr1gL6f4U)
