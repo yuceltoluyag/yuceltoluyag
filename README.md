@@ -67,8 +67,8 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#503](https://github.com/voideditor/void/issues/503) in [voideditor/void](https://github.com/voideditor/void)
-2. ❗️ Closed issue [#13](https://github.com/vbextreme/ghostmirror/issues/13) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
+1. 🎉 Merged PR [#248](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/248) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+2. ❗️ Closed issue [#226](https://github.com/yuceltoluyag/yuceltoluyag.github.io/issues/226) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
 3. 🗣 Commented on [#13](https://github.com/vbextreme/ghostmirror/issues/13) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
 4. 🗣 Commented on [#13](https://github.com/vbextreme/ghostmirror/issues/13) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
 5. 🗣 Commented on [#13](https://github.com/vbextreme/ghostmirror/issues/13) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
