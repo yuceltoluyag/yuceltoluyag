@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nesine.com: Veraset ve İntikal Vergisi ne anlama geliyor?](https://yuceltoluyag.dev/2025-veraset-intikal-vergisi-bilgilendirme/)
-- [Linux’ta Oyunlara Türkçe Yama Nasıl Kurulur? &lpar;Detaylı Rehber&rpar;](https://yuceltoluyag.dev/linux-oyunlara-turkce-yama-kurulumu/)
-- [Arch Linux Üzerinde Rise of Kingdoms Kurulumu &lpar;Lutris ile&rpar;](https://yuceltoluyag.dev/arch-linux-rise-of-kingdoms-kurulumu/)
-- [Linux’ta Oturum Ayarları: .xinitrc mi .xprofile mı?](https://yuceltoluyag.dev/lightdm-xprofile-xinitrc-farki/)
-- [Arch Linux&#39;ta Transmission Nasıl Kurulur ve Kullanılır?](https://yuceltoluyag.dev/arch-linux-transmission-kurulum/)
+- [Arch Linux Üzerinde USB Güç Yönetimi ve Kernel Modül Analizi](https://yuceltoluyag.github.io/arch-linux-usb-guc-yonetimi-ve-kernel-modul-analizi/)
+- [WinePrefix Nedir ve Nasıl Kullanılır?](https://yuceltoluyag.github.io/wineprefix-nedir-nasil-kullanilir/)
+- [Arch Linux Üzerinde CPU Güç Yönetimi ve Performans Ayarları](https://yuceltoluyag.github.io/arch-linux-cpu-performans-ayarlari/)
+- [Arch Linux’ta Disk Alanı Eksik Görünüyor mu? İşte Adım Adım Çözüm Rehberi 🧹💾](https://yuceltoluyag.github.io/arch-linux-disk-alani-gorunmuyor-cozum/)
+- [Instagram’da Klavye Yorum Kutusunun Üzerini Kapatıyorsa Ne Yapmalısınız?](https://yuceltoluyag.github.io/instagram-klavye-yorum-kutusu-sorunu/)
 <!-- BLOG-POST-LIST:END -->
 
 
