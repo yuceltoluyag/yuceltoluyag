@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rehber: Arch Linux&#39;ta Flutter Kurulumu](https://yuceltoluyag.github.io/arch-linux-flutter-kurulumu/)
+- [🎮 Cyberpunk 2077 Linux&#39;ta Mod Kurulum Rehberi: Cyber Engine Tweaks ve Daha Fazlası](https://yuceltoluyag.github.io/cyberpunk-2077-linux-mod-kurulum-rehberi/)
+- [Arch Linux&#39;ta linux-firmware Güncellemesinde NVIDIA Hatası ve Çözümü](https://yuceltoluyag.github.io/arch-linux-linux-firmware-nvidia-hatasi-cozumu/)
 - [Arch Linux Üzerinde USB Güç Yönetimi ve Kernel Modül Analizi](https://yuceltoluyag.github.io/arch-linux-usb-guc-yonetimi-ve-kernel-modul-analizi/)
 - [WinePrefix Nedir ve Nasıl Kullanılır?](https://yuceltoluyag.github.io/wineprefix-nedir-nasil-kullanilir/)
-- [Arch Linux Üzerinde CPU Güç Yönetimi ve Performans Ayarları](https://yuceltoluyag.github.io/arch-linux-cpu-performans-ayarlari/)
-- [Arch Linux’ta Disk Alanı Eksik Görünüyor mu? İşte Adım Adım Çözüm Rehberi 🧹💾](https://yuceltoluyag.github.io/arch-linux-disk-alani-gorunmuyor-cozum/)
-- [Instagram’da Klavye Yorum Kutusunun Üzerini Kapatıyorsa Ne Yapmalısınız?](https://yuceltoluyag.github.io/instagram-klavye-yorum-kutusu-sorunu/)
 <!-- BLOG-POST-LIST:END -->
 
 
