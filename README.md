@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [With My Return the Cosmos is Restored](https://www.youtube.com/shorts/HbyaJkeHIak)
+- [Zabanan God mu yazılır Galip Beğ  🇹🇷🐧](https://www.youtube.com/watch?v=i9qa0kSJ78c)
 - [Linux Üzerinde RDR2 Türkçe Yama Kurulumu  🚀 | 2. Bölüm](https://www.youtube.com/watch?v=h1W0_yaB75g)
 - [RDR1 &amp; RDR2 Türkçe Yama Kurulumu &lpar;Linux&rpar; – Vahşi Batı&#39;da Türkçe Keyfi! 🇹🇷🐧](https://www.youtube.com/watch?v=XGcccKCjcLI)
 - [SP Football Life 2025 | Arch Linux | Full PATCH 🐧⚽](https://www.youtube.com/watch?v=GgEl44n_mT8)
-- [Yeni Başlayanlar Hangi Linux Dağıtımını Seçmeli?🐧](https://www.youtube.com/watch?v=IDjtbPEDk3w)
-- [Valve, Linux’a hiçbir katkı yapmadı. Masal anlatmayı bırakın. 🛑🐧🧚‍♀️](https://www.youtube.com/watch?v=xgWOSnFXimM)
 <!-- YOUTUBE:END -->
 -----------
 
