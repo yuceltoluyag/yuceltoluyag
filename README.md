@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [X11’de Proton Authenticator Butonlarının Görünmemesi Sorunu ve Kesin Çözümü](https://yuceltoluyag.github.io/x11-proton-authenticator-buton-gorunmeme-cozumu/)
-- [Arch Linux&#39;ta Ollama ve WebUI Kurulumu](https://yuceltoluyag.github.io/arch-linux-ollama-webui-kurulumu-docker/)
-- [Arch Linux&#39;ta Docker Kurulumu – Adım Adım Rehber](https://yuceltoluyag.github.io/arch-linux-docker-kurulumu/)
-- [Linux’ta Disklerin Mount ve Unmount İşlemleri: Temel Bilgiler ve Uygulamalar](https://yuceltoluyag.github.io/linux-disk-mount-unmount-temel-bilgiler/)
-- [Pyenv ile Arch Linux AUR Paketlerinde Python Modül Hataları ve Çözümleri](https://yuceltoluyag.github.io/pyenv-arch-linux-aur-python-modul-hatalari-cozumleri/)
+- [Arch Linux Üzerinde Valkey &lpar;Redis Alternatifi&rpar; Kurulumu](https://yuceltoluyag.github.io/archlinux-valkey-redis-kurulumu/)
+- [Qwen 3 ve Qwen3-Coder-Plus Üzerinde MCP Server’ları Aktif Etme 🚀](https://yuceltoluyag.github.io/qwen3-mcp-server-aktif-etme/)
+- [Arch Linux Üzerinde Playwright Kurulumu: Adım Adım Rehber 🐧](https://yuceltoluyag.github.io/playwright-arch-linux-kurulum/)
+- [GitHub’ta Bir Projeye Nasıl Commit Atılır? – Adım Adım Rehber 🚀](https://yuceltoluyag.github.io/github-commit-atma-rehberi/)
+- [Arch Linux’ta PostgreSQL ve pgAdmin4 Kurulumu ve Kullanımı – Adım Adım Rehber](https://yuceltoluyag.github.io/arch-linux-postgresql-pgadmin4-kurulum-rehber/)
 <!-- BLOG-POST-LIST:END -->
 
 
