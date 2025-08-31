@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arch Linux&#39;ta Süren DDoS Saldırısı ve Hızlı Çözüm Yolları](https://yuceltoluyag.github.io/arch-linux-ddos-hizmet-kesintisi/)
+- [VSCode’da GPG Şifre Ekranı Çalışmıyor mu? İşte Çözümü 🚀](https://yuceltoluyag.github.io/git-gpg-imzali-commit-vscode-arch/)
 - [Arch Linux Üzerinde Valkey &lpar;Redis Alternatifi&rpar; Kurulumu](https://yuceltoluyag.github.io/archlinux-valkey-redis-kurulumu/)
 - [Qwen 3 ve Qwen3-Coder-Plus Üzerinde MCP Server’ları Aktif Etme 🚀](https://yuceltoluyag.github.io/qwen3-mcp-server-aktif-etme/)
 - [Arch Linux Üzerinde Playwright Kurulumu: Adım Adım Rehber 🐧](https://yuceltoluyag.github.io/playwright-arch-linux-kurulum/)
-- [GitHub’ta Bir Projeye Nasıl Commit Atılır? – Adım Adım Rehber 🚀](https://yuceltoluyag.github.io/github-commit-atma-rehberi/)
-- [Arch Linux’ta PostgreSQL ve pgAdmin4 Kurulumu ve Kullanımı – Adım Adım Rehber](https://yuceltoluyag.github.io/arch-linux-postgresql-pgadmin4-kurulum-rehber/)
 <!-- BLOG-POST-LIST:END -->
 
 
