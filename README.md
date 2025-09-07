@@ -67,9 +67,9 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7907](https://github.com/fullcalendar/fullcalendar/issues/7907) in [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)
-2. 🎉 Merged PR [#249](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/249) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-3. ❗️ Opened issue [#224](https://github.com/budlabs/i3ass/issues/224) in [budlabs/i3ass](https://github.com/budlabs/i3ass)
+1. 💪 Opened PR [#18](https://github.com/HAMM3REXTREME/ComfyUI-Installer/pull/18) in [HAMM3REXTREME/ComfyUI-Installer](https://github.com/HAMM3REXTREME/ComfyUI-Installer)
+2. 🎉 Merged PR [#78](https://github.com/Baba-Project/minel-starter/pull/78) in [Baba-Project/minel-starter](https://github.com/Baba-Project/minel-starter)
+3. 🗣 Commented on [#7907](https://github.com/fullcalendar/fullcalendar/issues/7907) in [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)
 4. ❗️ Closed issue [#226](https://github.com/yuceltoluyag/yuceltoluyag.github.io/issues/226) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
 5. 🗣 Commented on [#13](https://github.com/vbextreme/ghostmirror/issues/13) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
 <!--END_SECTION:activity-->
