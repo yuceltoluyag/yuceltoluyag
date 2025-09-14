@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Autocut ile Otomatik Video Kesme Rehberi](https://yuceltoluyag.github.io/autocut-otomatik-video-kesme-markdown-rehberi/)
 - [Steam Debian Oyun Açılmıyor: Wrong ELF Class ve Libgamemodeauto Hatası Çözümü](https://yuceltoluyag.github.io/steam-debian-oyun-acilmiyor-wrong-elf-class-libgamemodeauto-hatasi-cozumu/)
 - [Linux’ta DaVinci Resolve 20.1 Açılmıyor Hatası ve Çözümü](https://yuceltoluyag.github.io/davinci-resolve-20-1-linux-hatasi-cozumu/)
 - [Arch Linux&#39;ta Süren DDoS Saldırısı ve Hızlı Çözüm Yolları](https://yuceltoluyag.github.io/arch-linux-ddos-hizmet-kesintisi/)
 - [VSCode’da GPG Şifre Ekranı Çalışmıyor mu? İşte Çözümü 🚀](https://yuceltoluyag.github.io/git-gpg-imzali-commit-vscode-arch/)
-- [Arch Linux Üzerinde Valkey &lpar;Redis Alternatifi&rpar; Kurulumu](https://yuceltoluyag.github.io/archlinux-valkey-redis-kurulumu/)
 <!-- BLOG-POST-LIST:END -->
 
 
