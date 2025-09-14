@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Linux&#39;ta GPU Kontrol Etmenin En Kolay Yolu! 🔧 &lpar;AMD / Nvidia / Intel&rpar;](https://www.youtube.com/shorts/TMizaF4FJQc)
-- [Kızım İçin Minecraft’ı Full Modlu Kurdum! 💖 &lpar;Ben Oynamayı Bilmiyorum 😂&rpar;](https://www.youtube.com/watch?v=X3cvmAWk-Lk)
-- [Battlefield 3 Linux’ta Nasıl Oynanır? 🔥 FPS Macerası](https://www.youtube.com/watch?v=RzNECeqyIhQ)
-- [Efsane Western Hikayesi 🤠 | Call of Juarez: Gunslinger [Linux + Türkçe]](https://www.youtube.com/watch?v=VoVurhp88qc)
-- [Dota 2 Canlı Yayını 🏆 |  Linux Sohbet](https://www.youtube.com/watch?v=p-5JXjhK82w)
+- [linuxa gelmek istemiyorum #linuxgaming #linux #linuxturkiye](https://www.youtube.com/shorts/EY49yv-bD3w)
+- [Anlık Teknoloji Gündem Raporu ~ Linux&#39;a Sen Gelme](https://www.youtube.com/shorts/9-fSCgw720U)
+- [Linux&#39;a Geçtim Çünkü Ben](https://www.youtube.com/shorts/8sbpDILm-tM)
+- [Linux’ta ShadowPlay Benzeri Ekran Kaydı | GPU Screen Recorder 🚀](https://www.youtube.com/watch?v=eiRSvS1vvdc)
+- [Autocut ile Otomatik Video Kesme,Ses Temizleme | Canlı Uygulama ve Soru-Cevap](https://www.youtube.com/watch?v=tS3Iw2WhCJI)
 <!-- YOUTUBE:END -->
 -----------
 
