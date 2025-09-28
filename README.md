@@ -67,11 +67,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16](https://github.com/vbextreme/ghostmirror/issues/16) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
-2. 🗣 Commented on [#1835](https://github.com/falkTX/Carla/issues/1835) in [falkTX/Carla](https://github.com/falkTX/Carla)
-3. 🎉 Merged PR [#254](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/254) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-4. 💪 Opened PR [#254](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/254) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-5. 🎉 Merged PR [#253](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/253) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+1. 🗣 Commented on [#48](https://github.com/eworm-de/mpd-notification/issues/48) in [eworm-de/mpd-notification](https://github.com/eworm-de/mpd-notification)
+2. 🎉 Merged PR [#35](https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot/pull/35) in [yuceltoluyag/Rise-of-Kingdoms-Bot](https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot)
+3. 🗣 Commented on [#1666](https://github.com/falkTX/Carla/issues/1666) in [falkTX/Carla](https://github.com/falkTX/Carla)
+4. 🗣 Commented on [#16](https://github.com/vbextreme/ghostmirror/issues/16) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
+5. 🗣 Commented on [#16](https://github.com/vbextreme/ghostmirror/issues/16) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
 <!--END_SECTION:activity-->
 
 </details>
