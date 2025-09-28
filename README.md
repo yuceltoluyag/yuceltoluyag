@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Linux&#39;ta Türkçe Yama Kuramayanlara Cevabım](https://www.youtube.com/shorts/32aJdQk2xfI)
 - [Neden Linux Dağıtımı İncelemiyorum?&quot; | Gerçekleri Konuşuyoruz](https://www.youtube.com/watch?v=VADi3K-ZQ6k)
-- [Linux Ses Mühendisleri/Müzisyenleri: Carla Bağlantı Sorunu – Yardım Gerekli](https://www.youtube.com/watch?v=VkltcFRi0MI)
+- [Linux Sound Engineers/Musicians: Carla Connection Issue – Help Needed](https://www.youtube.com/watch?v=VkltcFRi0MI)
 - [Neden Linux Dağıtımı İncelemiyorum?&quot; | Gerçekleri Konuşuyoruz](https://www.youtube.com/watch?v=tw8OPQIaINU)
 - [Acil Linux Yükle](https://www.youtube.com/shorts/Ihb8toarlmI)
-- [linuxa gelmek istemiyorum #linuxgaming #linux #linuxturkiye](https://www.youtube.com/shorts/EY49yv-bD3w)
 <!-- YOUTUBE:END -->
 -----------
 
