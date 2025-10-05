@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Linux&#39;ta Türkçe Yama Kuramayanlara Cevabım](https://www.youtube.com/shorts/32aJdQk2xfI)
-- [Neden Linux Dağıtımı İncelemiyorum?&quot; | Gerçekleri Konuşuyoruz](https://www.youtube.com/watch?v=VADi3K-ZQ6k)
-- [Linux Sound Engineers/Musicians: Carla Connection Issue – Help Needed](https://www.youtube.com/watch?v=VkltcFRi0MI)
-- [Neden Linux Dağıtımı İncelemiyorum?&quot; | Gerçekleri Konuşuyoruz](https://www.youtube.com/watch?v=tw8OPQIaINU)
-- [Acil Linux Yükle](https://www.youtube.com/shorts/Ihb8toarlmI)
+- [Canlı yayından öne çıkan video](https://www.youtube.com/shorts/lzXnc3qMFL0)
+- [Cronos: The New Dawn | Optimized Tweaks Modu Kurulumu | FPS Artışı + Stutter Fix &lpar;Linux&rpar;](https://www.youtube.com/watch?v=3o9BPEFnPqk)
+- [Microsoft tarafından fonlanan içerik üreticileri](https://www.youtube.com/watch?v=oU8KkyZGdP0)
+- [Bu Bir Bant Kaydıdır - Davinci Resolve Altyazı Testi](https://www.youtube.com/shorts/zW73K_xmFK4)
+- [Dota 2 Linux Yayını | Turbo 2 :&rpar;](https://www.youtube.com/watch?v=uRncJbuhIRA)
 <!-- YOUTUBE:END -->
 -----------
 
