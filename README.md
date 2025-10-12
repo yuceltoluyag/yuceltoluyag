@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Canlı yayından öne çıkan video](https://www.youtube.com/shorts/lzXnc3qMFL0)
-- [Cronos: The New Dawn | Optimized Tweaks Modu Kurulumu | FPS Artışı + Stutter Fix &lpar;Linux&rpar;](https://www.youtube.com/watch?v=3o9BPEFnPqk)
-- [Microsoft tarafından fonlanan içerik üreticileri](https://www.youtube.com/watch?v=oU8KkyZGdP0)
-- [Bu Bir Bant Kaydıdır - Davinci Resolve Altyazı Testi](https://www.youtube.com/shorts/zW73K_xmFK4)
-- [Dota 2 Linux Yayını | Turbo 2 :&rpar;](https://www.youtube.com/watch?v=uRncJbuhIRA)
+- [Ghost of Tsushima Linux ! Proton, OptiScaler ve Performans İpuçları](https://www.youtube.com/watch?v=R4zbnIoE5hk)
+- [Ghost of Tsushima! ⚔️~  Linux -  Ninca Qamil](https://www.youtube.com/watch?v=igYBOo35Q-k)
+- [Ghost of Tsushima Linux ! Proton, OptiScaler ve Performans İpuçları](https://www.youtube.com/watch?v=GhBn04kMchw)
+- [oğlumla ghost Of tuşima - Bilgilendirme](https://www.youtube.com/watch?v=0eZYxn4t1Rw)
+- [Google Gemini PRO 1 YIL ÜCRETSİZ Nasıl Alınır?](https://www.youtube.com/shorts/yXZu7xbXH9w)
 <!-- YOUTUBE:END -->
 -----------
 
