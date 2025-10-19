@@ -67,11 +67,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#48](https://github.com/eworm-de/mpd-notification/issues/48) in [eworm-de/mpd-notification](https://github.com/eworm-de/mpd-notification)
-2. 🎉 Merged PR [#35](https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot/pull/35) in [yuceltoluyag/Rise-of-Kingdoms-Bot](https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot)
-3. 🗣 Commented on [#1666](https://github.com/falkTX/Carla/issues/1666) in [falkTX/Carla](https://github.com/falkTX/Carla)
-4. 🗣 Commented on [#16](https://github.com/vbextreme/ghostmirror/issues/16) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
-5. 🗣 Commented on [#16](https://github.com/vbextreme/ghostmirror/issues/16) in [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror)
+1. 💪 Opened PR [#1](https://github.com/NotFlawffles/termux-nerd-install/pull/1) in [NotFlawffles/termux-nerd-install](https://github.com/NotFlawffles/termux-nerd-install)
+2. 🗣 Commented on [#2979](https://github.com/element-hq/element-meta/issues/2979) in [element-hq/element-meta](https://github.com/element-hq/element-meta)
+3. 🗣 Commented on [#321](https://github.com/element-hq/element-meta/issues/321) in [element-hq/element-meta](https://github.com/element-hq/element-meta)
+4. 🗣 Commented on [#48](https://github.com/eworm-de/mpd-notification/issues/48) in [eworm-de/mpd-notification](https://github.com/eworm-de/mpd-notification)
+5. ❗️ Opened issue [#48](https://github.com/eworm-de/mpd-notification/issues/48) in [eworm-de/mpd-notification](https://github.com/eworm-de/mpd-notification)
 <!--END_SECTION:activity-->
 
 </details>
