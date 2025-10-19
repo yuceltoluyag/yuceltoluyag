@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Linux’ta Call of Duty Çalıştırdım! &lpar;Plutonium ile FPS Deneyleri 😎&rpar;](https://www.youtube.com/watch?v=R-VTXW-xV20)
+- [Linux’ta Call of Duty Çalıştırdım! &lpar;Plutonium ile FPS Deneyleri 😎&rpar;](https://www.youtube.com/watch?v=J0b_jeQjlkw)
+- [Waydroid + Weston Oyun Testleri &lpar;Arch Linux&rpar; | Android Oyunları Linux’ta Nasıl Çalışıyor?](https://www.youtube.com/watch?v=HVQBmWN5ZaU)
 - [Ghost of Tsushima Linux ! Proton, OptiScaler ve Performans İpuçları](https://www.youtube.com/watch?v=R4zbnIoE5hk)
 - [Ghost of Tsushima! ⚔️~  Linux -  Ninca Qamil](https://www.youtube.com/watch?v=igYBOo35Q-k)
-- [Ghost of Tsushima Linux ! Proton, OptiScaler ve Performans İpuçları](https://www.youtube.com/watch?v=GhBn04kMchw)
-- [oğlumla ghost Of tuşima - Bilgilendirme](https://www.youtube.com/watch?v=0eZYxn4t1Rw)
-- [Google Gemini PRO 1 YIL ÜCRETSİZ Nasıl Alınır?](https://www.youtube.com/shorts/yXZu7xbXH9w)
 <!-- YOUTUBE:END -->
 -----------
 
