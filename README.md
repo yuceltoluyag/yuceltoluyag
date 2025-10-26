@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stres Giderici Oyun: Ninja Kamil&#39;in Kaotik Macerası](https://yuceltoluyag.github.io/ninja-kamil-ghost-of-tsushima-linux-macerasi/)
-- [Linux’ta Vortex ile “Clair Obscur: Expedition 33” Mod Kurulumu Rehberi](https://yuceltoluyag.github.io/linux-vortex-clair-obscur-expedition-33-mod-kurulumu/)
-- [Arch Linux&#39;ta dnsmasq ve dnscrypt-proxy ile Güvenli DNS Kurulumu](https://yuceltoluyag.github.io/arch-linux-dnsmasq-dnscrypt-proxy/)
-- [Autocut ile Otomatik Video Kesme Rehberi](https://yuceltoluyag.github.io/autocut-otomatik-video-kesme-markdown-rehberi/)
-- [Steam Debian Oyun Açılmıyor: Wrong ELF Class ve Libgamemodeauto Hatası Çözümü](https://yuceltoluyag.github.io/steam-debian-oyun-acilmiyor-wrong-elf-class-libgamemodeauto-hatasi-cozumu/)
+- [GitHub&#39;dan Sadece Belirli Bir Klasörü İndirme: Sparse Checkout](https://yuceltoluyag.github.io/github-sadece-bir-klasor-indirme/)
+- [Arch Linux&#39;ta Waydroid Kurulumu: Binder Modülleri ve Gelişmiş Ayarlar](https://yuceltoluyag.github.io/arch-linux-waydroid-kurulumu/)
+- [Weston ile Waydroid Kurulumu: ModuleNotFoundError Hatası ve Çözümü](https://yuceltoluyag.github.io/weston-ile-waydroid-modulenotfounderror-hatasi-cozumu/)
+- [Arch Linux Güvenlik Duvarı Ayarları](https://yuceltoluyag.github.io/linux-firewall-ayarlari/)
+- [Arch Linux&#39;ta Waydroid İnternet Sorunu Çözümü](https://yuceltoluyag.github.io/arch-linux-waydroid-internet-sorunu-cozumu/)
 <!-- BLOG-POST-LIST:END -->
 
 
