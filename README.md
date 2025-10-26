@@ -67,11 +67,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/NotFlawffles/termux-nerd-install/pull/1) in [NotFlawffles/termux-nerd-install](https://github.com/NotFlawffles/termux-nerd-install)
-2. 🗣 Commented on [#2979](https://github.com/element-hq/element-meta/issues/2979) in [element-hq/element-meta](https://github.com/element-hq/element-meta)
-3. 🗣 Commented on [#321](https://github.com/element-hq/element-meta/issues/321) in [element-hq/element-meta](https://github.com/element-hq/element-meta)
-4. 🗣 Commented on [#48](https://github.com/eworm-de/mpd-notification/issues/48) in [eworm-de/mpd-notification](https://github.com/eworm-de/mpd-notification)
-5. ❗️ Opened issue [#48](https://github.com/eworm-de/mpd-notification/issues/48) in [eworm-de/mpd-notification](https://github.com/eworm-de/mpd-notification)
+1. 💪 Opened PR [#264](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/264) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+2. ❌ Closed PR [#263](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/263) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+3. ❌ Closed PR [#260](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/260) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+4. 🗣 Commented on [#260](https://github.com/yuceltoluyag/yuceltoluyag.github.io/issues/260) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+5. 🗣 Commented on [#259](https://github.com/yuceltoluyag/yuceltoluyag.github.io/issues/259) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
 <!--END_SECTION:activity-->
 
 </details>
