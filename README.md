@@ -21,10 +21,10 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub&#39;dan Sadece Belirli Bir Klasörü İndirme: Sparse Checkout](https://yuceltoluyag.github.io/github-sadece-bir-klasor-indirme/)
+- [Downloading Only a Specific Folder from GitHub: Sparse Checkout](https://yuceltoluyag.github.io/en/github-sadece-bir-klasor-indirme/)
 - [Arch Linux&#39;ta Waydroid Kurulumu: Binder Modülleri ve Gelişmiş Ayarlar](https://yuceltoluyag.github.io/arch-linux-waydroid-kurulumu/)
+- [Waydroid Installation on Arch Linux: Binder Modules and Advanced Settings](https://yuceltoluyag.github.io/en/arch-linux-waydroid-kurulumu/)
 - [Weston ile Waydroid Kurulumu: ModuleNotFoundError Hatası ve Çözümü](https://yuceltoluyag.github.io/weston-ile-waydroid-modulenotfounderror-hatasi-cozumu/)
-- [Arch Linux Güvenlik Duvarı Ayarları](https://yuceltoluyag.github.io/linux-firewall-ayarlari/)
-- [Arch Linux&#39;ta Waydroid İnternet Sorunu Çözümü](https://yuceltoluyag.github.io/arch-linux-waydroid-internet-sorunu-cozumu/)
 <!-- BLOG-POST-LIST:END -->
 
 
