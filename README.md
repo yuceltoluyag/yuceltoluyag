@@ -67,11 +67,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#272](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/272) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-2. 💪 Opened PR [#269](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/269) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-3. ❌ Labeled PR [#12](https://github.com/Baba-Project/jekyll-staticman/pull/12) in [Baba-Project/jekyll-staticman](https://github.com/Baba-Project/jekyll-staticman)
-4. ❌ Assigned PR [#12](https://github.com/Baba-Project/jekyll-staticman/pull/12) in [Baba-Project/jekyll-staticman](https://github.com/Baba-Project/jekyll-staticman)
-5. 💪 Opened PR [#12](https://github.com/Baba-Project/jekyll-staticman/pull/12) in [Baba-Project/jekyll-staticman](https://github.com/Baba-Project/jekyll-staticman)
+1. 💪 Opened PR [#293](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/293) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+2. 💪 Opened PR [#292](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/292) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+3. 💪 Opened PR [#18](https://github.com/yuceltoluyag/google-indexing-tool/pull/18) in [yuceltoluyag/google-indexing-tool](https://github.com/yuceltoluyag/google-indexing-tool)
+4. 💪 Opened PR [#291](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/291) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+5. 💪 Opened PR [#17](https://github.com/yuceltoluyag/google-indexing-tool/pull/17) in [yuceltoluyag/google-indexing-tool](https://github.com/yuceltoluyag/google-indexing-tool)
 <!--END_SECTION:activity-->
 
 </details>
