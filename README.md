@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Otomatik Bing IndexNow Kullanımı: Siteniz Saniyeler İçinde Dizine Eklensin!](https://yuceltoluyag.github.io/otomatik-bing-indexnow-kullanimi/)
+- [Automatic Bing IndexNow Usage: Get Your Site Indexed in Seconds!](https://yuceltoluyag.github.io/en/otomatik-bing-indexnow-kullanimi/)
+- [Rehber: Google Indexing API kullanımı](https://yuceltoluyag.github.io/google-indexing-api-nasil-kullanilir/)
+- [Guide: Using Google Indexing API](https://yuceltoluyag.github.io/en/google-indexing-api-nasil-kullanilir/)
 - [GitHub&#39;dan Sadece Belirli Bir Klasörü İndirme: Sparse Checkout](https://yuceltoluyag.github.io/github-sadece-bir-klasor-indirme/)
-- [Downloading Only a Specific Folder from GitHub: Sparse Checkout](https://yuceltoluyag.github.io/en/github-sadece-bir-klasor-indirme/)
-- [Arch Linux&#39;ta Waydroid Kurulumu: Binder Modülleri ve Gelişmiş Ayarlar](https://yuceltoluyag.github.io/arch-linux-waydroid-kurulumu/)
-- [Waydroid Installation on Arch Linux: Binder Modules and Advanced Settings](https://yuceltoluyag.github.io/en/arch-linux-waydroid-kurulumu/)
-- [Weston ile Waydroid Kurulumu: ModuleNotFoundError Hatası ve Çözümü](https://yuceltoluyag.github.io/weston-ile-waydroid-modulenotfounderror-hatasi-cozumu/)
 <!-- BLOG-POST-LIST:END -->
 
 
