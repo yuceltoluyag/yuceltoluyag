@@ -67,11 +67,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#293](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/293) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-2. 💪 Opened PR [#292](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/292) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-3. 💪 Opened PR [#18](https://github.com/yuceltoluyag/google-indexing-tool/pull/18) in [yuceltoluyag/google-indexing-tool](https://github.com/yuceltoluyag/google-indexing-tool)
-4. 💪 Opened PR [#291](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/291) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-5. 💪 Opened PR [#17](https://github.com/yuceltoluyag/google-indexing-tool/pull/17) in [yuceltoluyag/google-indexing-tool](https://github.com/yuceltoluyag/google-indexing-tool)
+1. 💪 Opened PR [#302](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/302) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+2. 💪 Opened PR [#301](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/301) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+3. 💪 Opened PR [#300](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/300) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+4. 💪 Opened PR [#299](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/299) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+5. 💪 Opened PR [#298](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/298) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
 <!--END_SECTION:activity-->
 
 </details>
