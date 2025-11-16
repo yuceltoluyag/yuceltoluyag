@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Otomatik Bing IndexNow Kullanımı: Siteniz Saniyeler İçinde Dizine Eklensin!](https://yuceltoluyag.github.io/otomatik-bing-indexnow-kullanimi/)
-- [Automatic Bing IndexNow Usage: Get Your Site Indexed in Seconds!](https://yuceltoluyag.github.io/en/otomatik-bing-indexnow-kullanimi/)
-- [Rehber: Google Indexing API kullanımı](https://yuceltoluyag.github.io/google-indexing-api-nasil-kullanilir/)
-- [Guide: Using Google Indexing API](https://yuceltoluyag.github.io/en/google-indexing-api-nasil-kullanilir/)
-- [GitHub&#39;dan Sadece Belirli Bir Klasörü İndirme: Sparse Checkout](https://yuceltoluyag.github.io/github-sadece-bir-klasor-indirme/)
+- [Arch Linux&#39;ta .pacsave Dosyaları Nedir? &lpar;Güvenli Kullanım&rpar;](https://yuceltoluyag.github.io/arch-linux-pacsave-dosyalari/)
+- [What are .pacsave Files in Arch Linux? &lpar;Safe Usage&rpar;](https://yuceltoluyag.github.io/en/arch-linux-pacsave-dosyalari/)
+- [Wget ile Bir Web Sitesini Doğru Yöntemle İndirme](https://yuceltoluyag.github.io/wget-ile-web-sitesi-indirme/)
+- [Downloading a Website Correctly with Wget](https://yuceltoluyag.github.io/en/wget-ile-web-sitesi-indirme/)
+- [Linux&#39;ta Tam Kapsamlı Paranoya: ClamAV ile A&#39;dan Z&#39;ye Güvenlik](https://yuceltoluyag.github.io/linux-guvenlik-clamav-tam-kapsamli-rehber/)
 <!-- BLOG-POST-LIST:END -->
 
 
