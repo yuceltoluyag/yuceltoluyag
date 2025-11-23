@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Bildirim Spam&#39;inden &#39;gh&#39; ile Nasıl Kurtulunur?](https://yuceltoluyag.github.io/github-bildirim-spam-gh-ile-kurtulmak/)
+- [How to Get Rid of GitHub Notification Spam with &#39;gh&#39;?](https://yuceltoluyag.github.io/en/github-bildirim-spam-gh-ile-kurtulmak/)
+- [Vivaldi&#39;yi Neden Seviyorum](https://yuceltoluyag.github.io/vivaldi-linux-deneyimi/)
+- [Why I Love Vivaldi](https://yuceltoluyag.github.io/en/vivaldi-linux-deneyimi/)
 - [Arch Linux&#39;ta .pacsave Dosyaları Nedir? &lpar;Güvenli Kullanım&rpar;](https://yuceltoluyag.github.io/arch-linux-pacsave-dosyalari/)
-- [What are .pacsave Files in Arch Linux? &lpar;Safe Usage&rpar;](https://yuceltoluyag.github.io/en/arch-linux-pacsave-dosyalari/)
-- [Wget ile Bir Web Sitesini Doğru Yöntemle İndirme](https://yuceltoluyag.github.io/wget-ile-web-sitesi-indirme/)
-- [Downloading a Website Correctly with Wget](https://yuceltoluyag.github.io/en/wget-ile-web-sitesi-indirme/)
-- [Linux&#39;ta Tam Kapsamlı Paranoya: ClamAV ile A&#39;dan Z&#39;ye Güvenlik](https://yuceltoluyag.github.io/linux-guvenlik-clamav-tam-kapsamli-rehber/)
 <!-- BLOG-POST-LIST:END -->
 
 
