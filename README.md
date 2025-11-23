@@ -67,11 +67,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#302](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/302) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-2. 💪 Opened PR [#301](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/301) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-3. 💪 Opened PR [#300](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/300) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-4. 💪 Opened PR [#299](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/299) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-5. 💪 Opened PR [#298](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/298) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+1. 💪 Opened PR [#308](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/308) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+2. 💪 Opened PR [#307](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/307) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+3. 💪 Opened PR [#306](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/306) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+4. 💪 Opened PR [#305](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/305) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+5. 🗣 Commented on [#129](https://github.com/actions/upload-pages-artifact/issues/129) in [actions/upload-pages-artifact](https://github.com/actions/upload-pages-artifact)
 <!--END_SECTION:activity-->
 
 </details>
