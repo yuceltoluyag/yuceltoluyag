@@ -67,11 +67,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#308](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/308) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-2. 💪 Opened PR [#307](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/307) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-3. 💪 Opened PR [#306](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/306) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-4. 💪 Opened PR [#305](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/305) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-5. 🗣 Commented on [#129](https://github.com/actions/upload-pages-artifact/issues/129) in [actions/upload-pages-artifact](https://github.com/actions/upload-pages-artifact)
+1. 💪 Opened PR [#1](https://github.com/yuceltoluyag/google-indexing-tool/pull/1) in [yuceltoluyag/google-indexing-tool](https://github.com/yuceltoluyag/google-indexing-tool)
+2. ❌ Closed PR [#313](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/313) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+3. ❌ Closed PR [#312](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/312) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+4. 💪 Opened PR [#311](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/311) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+5. 🗣 Commented on [#9438](https://github.com/bluesky-social/social-app/issues/9438) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
 <!--END_SECTION:activity-->
 
 </details>
