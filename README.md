@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rise of Kingdoms&#39;dan Hayat Derslerine: 4 Saatlik Podcast](https://www.youtube.com/watch?v=e3O9Di3Il5M)
 - [Sadece gerçek oyuncular, bu oyunun müziğinin gücünü anlayabilir.](https://www.youtube.com/shorts/BBLPNEp0_0g)
 - [Privacy Gerçekleri Yüzünden Engellenen Yayın &lpar;11 Ekim 2025&rpar;](https://www.youtube.com/watch?v=fSnNyPE2HYs)
 - [Bu Gidiş, Dönüşümün Başlangıcı Olsun.](https://www.youtube.com/shorts/kk8D1cw465w)
 - [Baba, babalarla birlikte. 💣](https://www.youtube.com/shorts/G3Fsvi9Mf28)
-- [Günah Keçisi : Linux](https://www.youtube.com/watch?v=aWFMJT8CXKI)
 <!-- YOUTUBE:END -->
 -----------
 
