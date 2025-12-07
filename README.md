@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Bildirim Spam&#39;inden &#39;gh&#39; ile Nasıl Kurtulunur?](https://yuceltoluyag.github.io/github-bildirim-spam-gh-ile-kurtulmak/)
-- [How to Get Rid of GitHub Notification Spam with &#39;gh&#39;?](https://yuceltoluyag.github.io/en/github-bildirim-spam-gh-ile-kurtulmak/)
-- [Vivaldi&#39;yi Neden Seviyorum](https://yuceltoluyag.github.io/vivaldi-linux-deneyimi/)
-- [Why I Love Vivaldi](https://yuceltoluyag.github.io/en/vivaldi-linux-deneyimi/)
-- [Arch Linux&#39;ta .pacsave Dosyaları Nedir? &lpar;Güvenli Kullanım&rpar;](https://yuceltoluyag.github.io/arch-linux-pacsave-dosyalari/)
+- [Vivaldi&#39;de DoH Ayarı Nasıl Yapılır? &lpar;Cloudflare ile Özgürlük&rpar;](https://yuceltoluyag.github.io/vivaldi-doh-dns-over-https-ayari/)
+- [Proxmox + ZFS Üzerinde Home Assistant &lpar;HAOS&rpar; Kurulumu](https://yuceltoluyag.github.io/proxmox-zfs-home-assistant/)
+- [Arch Linux&#39;ta AnyDesk Kurulumu: Neden RustDesk Değil de Bu?](https://yuceltoluyag.github.io/arch-linux-anydesk-kurulumu-rehberi/)
+- [Linux GPU Sürücü Rehberi: AMD, Intel ve Nvidia İçin Stabil ve Temiz Kurulum](https://yuceltoluyag.github.io/linux-gpu-driver-rehberi/)
+- [Arch Linux&#39;ta ntsync Nasıl Aktif Edilir?](https://yuceltoluyag.github.io/arch-linux-ntsync-aktif-etme-zen-kernel-rehberi/)
 <!-- BLOG-POST-LIST:END -->
 
 
