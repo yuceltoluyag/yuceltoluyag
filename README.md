@@ -67,11 +67,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/yuceltoluyag/google-indexing-tool/pull/1) in [yuceltoluyag/google-indexing-tool](https://github.com/yuceltoluyag/google-indexing-tool)
-2. ❌ Closed PR [#313](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/313) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-3. ❌ Closed PR [#312](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/312) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-4. 💪 Opened PR [#311](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/311) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
-5. 🗣 Commented on [#9438](https://github.com/bluesky-social/social-app/issues/9438) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
+1. ❌ Merged PR [#315](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/315) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+2. 💪 Opened PR [#315](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/315) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+3. ❌ Merged PR [#314](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/314) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+4. 💪 Opened PR [#314](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/314) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
+5. ❌ Merged PR [#1](https://github.com/yuceltoluyag/google-indexing-tool/pull/1) in [yuceltoluyag/google-indexing-tool](https://github.com/yuceltoluyag/google-indexing-tool)
 <!--END_SECTION:activity-->
 
 </details>
