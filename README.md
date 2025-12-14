@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [kişisel gelişim uzmanı Eren bey sorularınızı yanıtlıyor](https://www.youtube.com/watch?v=XrlAWNuaTko)
+- [İnsanlar Dış Görünüşe Göre Seni Sevdi Ama Hayvanlar İçini Gördü](https://www.youtube.com/shorts/xGbjE2CKgYI)
+- [Ey Gidi Günler; Bir ayda milyonlar kazan](https://www.youtube.com/watch?v=3JlPdtwZWdU)
+- [Niye Bu kadar Dürüstsünüz Eren Beğ](https://www.youtube.com/shorts/8S4gunTiqds)
 - [3967&#39;de Ortalık Karıştı! [Linux] Sohbet &amp; Muhabbet  🎮🔥](https://www.youtube.com/watch?v=ZWza54mLtb4)
-- [3967&#39;de Ortalık Karıştı! [Linux] Sohbet &amp; Muhabbet  🎮🔥](https://www.youtube.com/watch?v=s6-uTzx2x6U)
-- [Linux’ta Manor Lords Oynuyorum | v0.8.035 Son Köylü](https://www.youtube.com/watch?v=stSR2FoS1r4)
-- [Rise of Kingdoms&#39;dan Hayat Derslerine: 4 Saatlik Podcast](https://www.youtube.com/watch?v=e3O9Di3Il5M)
-- [Sadece gerçek oyuncular, bu oyunun müziğinin gücünü anlayabilir.](https://www.youtube.com/shorts/BBLPNEp0_0g)
 <!-- YOUTUBE:END -->
 -----------
 
