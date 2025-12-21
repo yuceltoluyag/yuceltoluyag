@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Kaçak iphone neden bu kadar ucuz ? Yusuf abla cevaplıyor](https://www.youtube.com/watch?v=UurO6XS8qkI)
+- [Yusuf Abla Sorularınızı  Yanıtlıyor 2. Bölüm](https://www.youtube.com/watch?v=T_W4MsoYppE)
+- [Yusuf Abla Sorularınızı  Yanıtlıyor](https://www.youtube.com/watch?v=R59I77JM4qI)
+- [Don&#39;t ever give up, I&#39;m waiting for you](https://www.youtube.com/shorts/yLxDgAU2cek)
 - [kişisel gelişim uzmanı Eren bey sorularınızı yanıtlıyor](https://www.youtube.com/watch?v=XrlAWNuaTko)
-- [İnsanlar Dış Görünüşe Göre Seni Sevdi Ama Hayvanlar İçini Gördü](https://www.youtube.com/shorts/xGbjE2CKgYI)
-- [Ey Gidi Günler; Bir ayda milyonlar kazan](https://www.youtube.com/watch?v=3JlPdtwZWdU)
-- [Niye Bu kadar Dürüstsünüz Eren Beğ](https://www.youtube.com/shorts/8S4gunTiqds)
-- [3967&#39;de Ortalık Karıştı! [Linux] Sohbet &amp; Muhabbet  🎮🔥](https://www.youtube.com/watch?v=ZWza54mLtb4)
 <!-- YOUTUBE:END -->
 -----------
 
