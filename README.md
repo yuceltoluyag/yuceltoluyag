@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Dünya Haylayf Birincisi Yusuf Abla Oyun Hakkında Konuşuyor](https://www.youtube.com/watch?v=zOJinQl-VbI)
-- [Dünya Haylayf Birincisi Yusuf Abla Oyun Hakkında Konuşuyor](https://www.youtube.com/watch?v=jMmSJ-00HlU)
-- [Kaçak iphone neden bu kadar ucuz ? Yusuf abla cevaplıyor](https://www.youtube.com/watch?v=UurO6XS8qkI)
-- [Yusuf Abla Sorularınızı  Yanıtlıyor 2. Bölüm](https://www.youtube.com/watch?v=T_W4MsoYppE)
-- [Yusuf Abla Sorularınızı  Yanıtlıyor](https://www.youtube.com/watch?v=R59I77JM4qI)
+- [kaos show 25 yıldır kavuşamayanlar kavuştu](https://www.youtube.com/watch?v=p_r2h8JGzzI)
+- [Sosyal Medyada Trend Olan Bu Yemeğin Adı Nedir ?](https://www.youtube.com/shorts/I9kTiHm5NgM)
+- [Uzman Çavuşu Kurtaran Kedi](https://www.youtube.com/shorts/NPtlp87AaR4)
+- [Instagram fenomeni Yusuf abla yemek yapiyor](https://www.youtube.com/watch?v=uWXh8Q4ncL0)
+- [Dedikodu, prim, magazin, ha?](https://www.youtube.com/watch?v=GilkWZMmG6E)
 <!-- YOUTUBE:END -->
 -----------
 
