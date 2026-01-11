@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Kredi kartı deneyiyle deprem nasıl oluşur?](https://www.youtube.com/shorts/GOLY4gtxYG8)
+- [Depremler insan yapımı mı?](https://www.youtube.com/shorts/lamOn0sZ5-c)
 - [kaos show 25 yıldır kavuşamayanlar kavuştu](https://www.youtube.com/watch?v=p_r2h8JGzzI)
 - [Sosyal Medyada Trend Olan Bu Yemeğin Adı Nedir ?](https://www.youtube.com/shorts/I9kTiHm5NgM)
 - [Uzman Çavuşu Kurtaran Kedi](https://www.youtube.com/shorts/NPtlp87AaR4)
-- [Instagram fenomeni Yusuf abla yemek yapiyor](https://www.youtube.com/watch?v=uWXh8Q4ncL0)
-- [Dedikodu, prim, magazin, ha?](https://www.youtube.com/watch?v=GilkWZMmG6E)
 <!-- YOUTUBE:END -->
 -----------
 
