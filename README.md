@@ -67,7 +67,7 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2214](https://github.com/archlinux/archinstall/issues/2214) in [archlinux/archinstall](https://github.com/archlinux/archinstall)
+1. ❌ Closed PR [#36](https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot/pull/36) in [yuceltoluyag/Rise-of-Kingdoms-Bot](https://github.com/yuceltoluyag/Rise-of-Kingdoms-Bot)
 2. 🗣 Commented on [#4032](https://github.com/archlinux/archinstall/issues/4032) in [archlinux/archinstall](https://github.com/archlinux/archinstall)
 3. 💪 Opened PR [#315](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/315) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
 4. ❌ Merged PR [#314](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/314) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
