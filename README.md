@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [yapay zeka mavraları skimsonik AI](https://www.youtube.com/watch?v=p7z3kyttmhg)
+- [Kafayı mı yediniz oluuuuuuum siz 1 ayda 5000 dolar kazan](https://www.youtube.com/shorts/LNGdYVHQNnM)
 - [Rise Of Kingdom Bot 2026](https://www.youtube.com/shorts/x3csviK3BFw)
 - [New Rise Of Kingdom Bot](https://www.youtube.com/watch?v=21Wi1SBLnXM)
 - [Kredi kartı deneyiyle deprem nasıl oluşur?](https://www.youtube.com/shorts/GOLY4gtxYG8)
-- [Depremler insan yapımı mı?](https://www.youtube.com/shorts/lamOn0sZ5-c)
-- [kaos show 25 yıldır kavuşamayanlar kavuştu](https://www.youtube.com/watch?v=p_r2h8JGzzI)
 <!-- YOUTUBE:END -->
 -----------
 
