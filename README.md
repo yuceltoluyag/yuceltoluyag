@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vivaldi&#39;de DoH Ayarı Nasıl Yapılır? &lpar;Cloudflare ile Özgürlük&rpar;](https://yuceltoluyag.github.io/vivaldi-doh-dns-over-https-ayari/)
-- [Proxmox + ZFS Üzerinde Home Assistant &lpar;HAOS&rpar; Kurulumu](https://yuceltoluyag.github.io/proxmox-zfs-home-assistant/)
-- [Arch Linux&#39;ta AnyDesk Kurulumu: Neden RustDesk Değil de Bu?](https://yuceltoluyag.github.io/arch-linux-anydesk-kurulumu-rehberi/)
-- [Linux GPU Sürücü Rehberi: AMD, Intel ve Nvidia İçin Stabil ve Temiz Kurulum](https://yuceltoluyag.github.io/linux-gpu-driver-rehberi/)
-- [Arch Linux&#39;ta ntsync Nasıl Aktif Edilir?](https://yuceltoluyag.github.io/arch-linux-ntsync-aktif-etme-zen-kernel-rehberi/)
+- [GitHub Actions&#39;ı Yerelde Koşturmak: act ile &quot;Deneme-Yanılma&quot; Devrini Kapatıyoruz](https://yuceltoluyag.github.io/github-actions-yerelde-test-etme-act/)
+- [Running GitHub Actions Locally: Closing the &quot;Trial and Error&quot; Era with act](https://yuceltoluyag.github.io/en/github-actions-yerelde-test-etme-act/)
+- [WSL&#39;de pyenv-win Çakışması ve PATH Kaosu Nasıl Çözüldü](https://yuceltoluyag.github.io/wsl-pyenv-cakisma-cozumu/)
+- [Solving the pyenv-win Conflict and PATH Chaos in WSL](https://yuceltoluyag.github.io/en/wsl-pyenv-cakisma-cozumu/)
+- [TurboQuant Sessiz Çökme Sorunu ve Çözümü](https://yuceltoluyag.github.io/turboquant-sessiz-cokme-cozumu/)
 <!-- BLOG-POST-LIST:END -->
 
 
