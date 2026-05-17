@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions&#39;ı Yerelde Koşturmak: act ile &quot;Deneme-Yanılma&quot; Devrini Kapatıyoruz](https://yuceltoluyag.github.io/github-actions-yerelde-test-etme-act/)
-- [Running GitHub Actions Locally: Closing the &quot;Trial and Error&quot; Era with act](https://yuceltoluyag.github.io/en/github-actions-yerelde-test-etme-act/)
-- [WSL&#39;de pyenv-win Çakışması ve PATH Kaosu Nasıl Çözüldü](https://yuceltoluyag.github.io/wsl-pyenv-cakisma-cozumu/)
-- [Solving the pyenv-win Conflict and PATH Chaos in WSL](https://yuceltoluyag.github.io/en/wsl-pyenv-cakisma-cozumu/)
-- [TurboQuant Sessiz Çökme Sorunu ve Çözümü](https://yuceltoluyag.github.io/turboquant-sessiz-cokme-cozumu/)
+- [LinkedIn İş Görüşmelerindeki Sinsi Tehlike: BeaverTail ve Lazarus Grubu](https://yuceltoluyag.github.io/linkedin-is-gorusmesi-dolandiriciligi-beavertail/)
+- [Linux&#39;ta Nostalji Rüzgarı: Space Cadet Pinball ve O Gizli Sabahlar](https://yuceltoluyag.github.io/linux-space-cadet-pinball-kurulumu/)
+- [Pelican Statik Sitenizi Playwright ile Test Edin: Hatalara Elveda](https://yuceltoluyag.github.io/pelican-statik-site-playwright-test/)
+- [Diskleri Çöpe Atın: Raspberry Pi Zero ile Tamamen RAM Üstünde Site Barındırmak](https://yuceltoluyag.github.io/raspberry-pi-zero-ram-diskless-web-server/)
+- [Arch Linux&#39;tan MikroTik&#39;e WireGuard: DNS Belası ve Temiz Kurulum](https://yuceltoluyag.github.io/arch-linux-mikrotik-wireguard-kurulumu/)
 <!-- BLOG-POST-LIST:END -->
 
 
