@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lutris&#39;in impact.ttf İnadı ve O Gıcık Return Code 256 Hatasının Çözümü](https://yuceltoluyag.github.io/lutris-installed-file-impact-ttf-not-found-cozumu/)
+- [Lutris&#39;s impact.ttf Obstinacy and Fixing the Annoying Return Code 256](https://yuceltoluyag.github.io/en/lutris-installed-file-impact-ttf-not-found-cozumu/)
+- [Aylık Aboneliklere Elveda: Kendi Bilgisayarınızda Bedava ve Özel AI Rehberi](https://yuceltoluyag.github.io/yerel-ai-kurulum-rehberi-lm-studio-vs-code/)
+- [Goodbye to Monthly Subscriptions: Free and Private AI Guide on Your Own Computer](https://yuceltoluyag.github.io/en/yerel-ai-kurulum-rehberi-lm-studio-vs-code/)
 - [LinkedIn İş Görüşmelerindeki Sinsi Tehlike: BeaverTail ve Lazarus Grubu](https://yuceltoluyag.github.io/linkedin-is-gorusmesi-dolandiriciligi-beavertail/)
-- [Linux&#39;ta Nostalji Rüzgarı: Space Cadet Pinball ve O Gizli Sabahlar](https://yuceltoluyag.github.io/linux-space-cadet-pinball-kurulumu/)
-- [Pelican Statik Sitenizi Playwright ile Test Edin: Hatalara Elveda](https://yuceltoluyag.github.io/pelican-statik-site-playwright-test/)
-- [Diskleri Çöpe Atın: Raspberry Pi Zero ile Tamamen RAM Üstünde Site Barındırmak](https://yuceltoluyag.github.io/raspberry-pi-zero-ram-diskless-web-server/)
-- [Arch Linux&#39;tan MikroTik&#39;e WireGuard: DNS Belası ve Temiz Kurulum](https://yuceltoluyag.github.io/arch-linux-mikrotik-wireguard-kurulumu/)
 <!-- BLOG-POST-LIST:END -->
 
 
