@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arch Linux&#39;ta DNS Gizemi: VPN, systemd-resolved ve Unbound](https://yuceltoluyag.github.io/arch-linux-dns-vpn-systemd-resolved-unbound/)
+- [VMware Workstation mksSandbox Çöküş Hatası ve Çözümü](https://yuceltoluyag.github.io/vmware-workstation-mkssandbox-cokus-hatasi-ve-cozumu/)
+- [The DNS Mystery on Arch Linux: VPN, systemd-resolved, and Unbound](https://yuceltoluyag.github.io/en/arch-linux-dns-vpn-systemd-resolved-unbound/)
+- [How to Fix VMware Workstation mksSandbox Crash &lpar;ISBRendererComm Error&rpar;](https://yuceltoluyag.github.io/en/vmware-workstation-mkssandbox-cokus-hatasi-ve-cozumu/)
 - [Lutris&#39;in impact.ttf İnadı ve O Gıcık Return Code 256 Hatasının Çözümü](https://yuceltoluyag.github.io/lutris-installed-file-impact-ttf-not-found-cozumu/)
-- [Lutris&#39;s impact.ttf Obstinacy and Fixing the Annoying Return Code 256](https://yuceltoluyag.github.io/en/lutris-installed-file-impact-ttf-not-found-cozumu/)
-- [Aylık Aboneliklere Elveda: Kendi Bilgisayarınızda Bedava ve Özel AI Rehberi](https://yuceltoluyag.github.io/yerel-ai-kurulum-rehberi-lm-studio-vs-code/)
-- [Goodbye to Monthly Subscriptions: Free and Private AI Guide on Your Own Computer](https://yuceltoluyag.github.io/en/yerel-ai-kurulum-rehberi-lm-studio-vs-code/)
-- [LinkedIn İş Görüşmelerindeki Sinsi Tehlike: BeaverTail ve Lazarus Grubu](https://yuceltoluyag.github.io/linkedin-is-gorusmesi-dolandiriciligi-beavertail/)
 <!-- BLOG-POST-LIST:END -->
 
 
