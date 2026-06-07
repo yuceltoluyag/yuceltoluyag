@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arch Linux&#39;ta DNS Gizemi: VPN, systemd-resolved ve Unbound](https://yuceltoluyag.github.io/arch-linux-dns-vpn-systemd-resolved-unbound/)
-- [VMware Workstation mksSandbox Çöküş Hatası ve Çözümü](https://yuceltoluyag.github.io/vmware-workstation-mkssandbox-cokus-hatasi-ve-cozumu/)
-- [The DNS Mystery on Arch Linux: VPN, systemd-resolved, and Unbound](https://yuceltoluyag.github.io/en/arch-linux-dns-vpn-systemd-resolved-unbound/)
-- [How to Fix VMware Workstation mksSandbox Crash &lpar;ISBRendererComm Error&rpar;](https://yuceltoluyag.github.io/en/vmware-workstation-mkssandbox-cokus-hatasi-ve-cozumu/)
-- [Lutris&#39;in impact.ttf İnadı ve O Gıcık Return Code 256 Hatasının Çözümü](https://yuceltoluyag.github.io/lutris-installed-file-impact-ttf-not-found-cozumu/)
+- [En İyi Yerel LLM Modelleri &lpar;2026&rpar;: Hangi Modeli Seçmelisin?](https://yuceltoluyag.github.io/en-iyi-yerel-llm-modelleri-2026/)
+- [Best Local LLM Models &lpar;2026&rpar;: Which One Should You Choose?](https://yuceltoluyag.github.io/en/en-iyi-yerel-llm-modelleri-2026/)
+- [Kendi Sunucunda Yapay Zeka &lpar;2026&rpar;: Gizlilik ve Tasarruf İçin Yerel LLM Rehberi](https://yuceltoluyag.github.io/yerel-llm-kurulum-rehberi-2026/)
+- [Self-Hosted LLMs in 2026: Run AI Locally for Privacy &amp; Savings](https://yuceltoluyag.github.io/en/yerel-llm-kurulum-rehberi-2026/)
+- [Gemini Code Assist ve GitHub Copilot Karşılaştırması &lpar;2026&rpar;: Hangisi Parasına Değer?](https://yuceltoluyag.github.io/gemini-code-assist-vs-github-copilot-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 
