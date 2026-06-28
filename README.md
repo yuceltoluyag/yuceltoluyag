@@ -31,11 +31,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Yusuf Abla Salgınlardan nasıl korunacağınızı anlatıyor](https://www.youtube.com/watch?v=8VVQjON1Jl4)
 - [Abi Recep Baltaş&#39;ı Döv](https://www.youtube.com/shorts/2KUs881wOto)
 - [Microsoft yapınca nau nau linux yapınca problem yok](https://www.youtube.com/watch?v=w666AEIVnpg)
 - [Windows Terminal Infinite Scrollback ?](https://www.youtube.com/shorts/fmPp-5DIa2Q)
 - [Instagram&#39;da 5000 yorumu tek tek mi siliyorsun ?](https://www.youtube.com/shorts/sIuUpHiDHsw)
-- [windows mu döver linux mu döver](https://www.youtube.com/shorts/Mk9R-mLKBlE)
 <!-- YOUTUBE:END -->
 -----------
 
