@@ -20,11 +20,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Redmi Note 12 Pro 5G &lpar;ruby&rpar; için crDroid Kurulum Rehberi](https://yuceltoluyag.github.io/redmi-note-12-pro-5g-crdroid-kurulum-rehberi/)
-- [En İyi Yerel LLM Modelleri &lpar;2026&rpar;: Hangi Modeli Seçmelisin?](https://yuceltoluyag.github.io/en-iyi-yerel-llm-modelleri-2026/)
-- [Best Local LLM Models &lpar;2026&rpar;: Which One Should You Choose?](https://yuceltoluyag.github.io/en/en-iyi-yerel-llm-modelleri-2026/)
-- [Kendi Sunucunda Yapay Zeka &lpar;2026&rpar;: Gizlilik ve Tasarruf İçin Yerel LLM Rehberi](https://yuceltoluyag.github.io/yerel-llm-kurulum-rehberi-2026/)
-- [Self-Hosted LLMs in 2026: Run AI Locally for Privacy &amp; Savings](https://yuceltoluyag.github.io/en/yerel-llm-kurulum-rehberi-2026/)
+- [Boşta Yatan Ekran Kartını Değerlendirmek: Nvidia VRAM&#39;i Linux&#39;ta Swap Yapmak &lpar;nbd-vram&rpar;](https://yuceltoluyag.github.io/nvidia-vram-swap-alani-nbd-vram/)
+- [Putting Idle VRAM to Work: Using Nvidia VRAM as Swap in Linux &lpar;nbd-vram&rpar;](https://yuceltoluyag.github.io/en/nvidia-vram-swap-alani-nbd-vram/)
+- [Curl Olmayan Konteynerde Bash ile HTTP İsteği Yapmak &lpar;/dev/tcp&rpar;](https://yuceltoluyag.github.io/curl-olmayan-konteynerde-bash-ile-http-istegi-dev-tcp/)
+- [Making HTTP Requests with Bash in Containers Without Curl &lpar;/dev/tcp&rpar;](https://yuceltoluyag.github.io/en/curl-olmayan-konteynerde-bash-ile-http-istegi-dev-tcp/)
+- [Bu Blogdaki Yazıları Yapay Zeka mı Yazıyor?](https://yuceltoluyag.github.io/bu-blogdaki-yazilari-yapay-zeka-mi-yaziyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
