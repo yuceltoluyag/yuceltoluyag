@@ -11,14 +11,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: DenverCoderOne/github-activity-readme@master
+
+      - name: Update GitHub Activity
+        uses: DenverCoderOne/github-activity-readme@master
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # Bulunamadığında fatal error verip akışı kırmasını engeller
-          FAIL_ON_EMPTY: "false"
-          # Sadece son 10 değil, daha gerideki etkinlikleri de yakalaması için taranacak event sayısını artırır
-          MAX_PAGES: 3
-          # Commit/Push hareketlerini de dahil etmek istersen (isteğe bağlı):
-          # SHOW_PULL_REQUEST: "true"
-          # SHOW_PUSH: "true"
+          GH_USERNAME: "yuceltoluyag"
+          MAX_LINES: 5
