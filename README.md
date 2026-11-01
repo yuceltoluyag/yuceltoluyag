@@ -54,11 +54,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Yusuf Abla Salgınlardan nasıl korunacağınızı anlatıyor](https://www.youtube.com/watch?v=pC2j4TCn0Ms)
+- [Call of Duty: Modern Warfare 4 Linux&#39;ta Oynanır mı? İlk Bakış + Türkçe Yama](https://www.youtube.com/watch?v=G1n5no9ZaQ0)
+- [Linux, FC 27 ve Bir Gamepad Hikâyesi 😄 | İlk İzlenimler](https://www.youtube.com/watch?v=_Q4KK6kE1M4)
 - [yapay zeka bana bir bardak su](https://www.youtube.com/shorts/goN4IZl9CaA)
 - [yanüyürüm atletli yayın  manifest konserine gidemedik](https://www.youtube.com/watch?v=KYtJlWVs3F8)
 - [Abi Recep Baltaş&#39;ı Döv](https://www.youtube.com/shorts/2KUs881wOto)
-- [Microsoft yapınca nau nau linux yapınca problem yok](https://www.youtube.com/watch?v=w666AEIVnpg)
 <!-- YOUTUBE:END -->
 
 <br/>
