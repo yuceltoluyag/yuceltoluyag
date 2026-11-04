@@ -66,7 +66,7 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1410](https://github.com/microsoft/terminal/issues/1410) in [microsoft/terminal](https://github.com/microsoft/terminal)
+1. 🚀 Published release [v1.1.0](https://github.com/yuceltoluyag/image-responsive/releases/tag/v1.1.0) in [yuceltoluyag/image-responsive](https://github.com/yuceltoluyag/image-responsive)
 2. 🗣 Commented on [#204](https://github.com/hexgrad/kokoro/issues/204) in [hexgrad/kokoro](https://github.com/hexgrad/kokoro)
 3. 🗣 Commented on [#164](https://github.com/MemPalace/mempalace/issues/164) in [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
 4. ❌ Merged PR [#314](https://github.com/yuceltoluyag/yuceltoluyag.github.io/pull/314) in [yuceltoluyag/yuceltoluyag.github.io](https://github.com/yuceltoluyag/yuceltoluyag.github.io)
