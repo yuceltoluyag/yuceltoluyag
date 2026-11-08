@@ -54,11 +54,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Voice Studio: Balon mu, Efsane mi?](https://www.youtube.com/watch?v=bzkWAK2ZnGs)
 - [Call of Duty: Modern Warfare 4 Linux&#39;ta Oynanır mı? İlk Bakış + Türkçe Yama](https://www.youtube.com/watch?v=G1n5no9ZaQ0)
 - [Linux, FC 27 ve Bir Gamepad Hikâyesi 😄 | İlk İzlenimler](https://www.youtube.com/watch?v=_Q4KK6kE1M4)
 - [yapay zeka bana bir bardak su](https://www.youtube.com/shorts/goN4IZl9CaA)
 - [yanüyürüm atletli yayın  manifest konserine gidemedik](https://www.youtube.com/watch?v=KYtJlWVs3F8)
-- [Abi Recep Baltaş&#39;ı Döv](https://www.youtube.com/shorts/2KUs881wOto)
 <!-- YOUTUBE:END -->
 
 <br/>
