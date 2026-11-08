@@ -23,11 +23,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arch Linux&#39;ta Node.js ile Resim Optimizasyonu: Gulp&#39;tan Sharp&#39;a Geçiş](https://yuceltoluyag.github.io/arch-linux-nodejs-gorsel-optimizasyonu-sharp/)
+- [Arch Linux Üzerinde FireCut 4.3.2 Kurulumu &lpar;DaVinci Resolve&rpar;](https://yuceltoluyag.github.io/arch-linux-firecut-davinci-resolve-kurulumu/)
+- [Arch Linux&#39;ta EA SPORTS FC 27: Türkçe Spiker ve DragonRise Gamepad Rehberi](https://yuceltoluyag.github.io/arch-linux-dragonrise-gamepad-xbox-360-kontrolcu-sorunu/)
 - [Boşta Yatan Ekran Kartını Değerlendirmek: Nvidia VRAM&#39;i Linux&#39;ta Swap Yapmak &lpar;nbd-vram&rpar;](https://yuceltoluyag.github.io/nvidia-vram-swap-alani-nbd-vram/)
 - [Putting Idle VRAM to Work: Using Nvidia VRAM as Swap in Linux &lpar;nbd-vram&rpar;](https://yuceltoluyag.github.io/en/nvidia-vram-swap-alani-nbd-vram/)
-- [Curl Olmayan Konteynerde Bash ile HTTP İsteği Yapmak &lpar;/dev/tcp&rpar;](https://yuceltoluyag.github.io/curl-olmayan-konteynerde-bash-ile-http-istegi-dev-tcp/)
-- [Making HTTP Requests with Bash in Containers Without Curl &lpar;/dev/tcp&rpar;](https://yuceltoluyag.github.io/en/curl-olmayan-konteynerde-bash-ile-http-istegi-dev-tcp/)
-- [Bu Blogdaki Yazıları Yapay Zeka mı Yazıyor?](https://yuceltoluyag.github.io/bu-blogdaki-yazilari-yapay-zeka-mi-yaziyor/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
