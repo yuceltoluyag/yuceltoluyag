@@ -23,11 +23,11 @@ I’m an AI enthusiast who loves to learn by teaching and has a borderline obses
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arch Linux&#39;ta Node.js ile Resim Optimizasyonu: Gulp&#39;tan Sharp&#39;a Geçiş](https://yuceltoluyag.github.io/arch-linux-nodejs-gorsel-optimizasyonu-sharp/)
-- [Arch Linux Üzerinde FireCut 4.3.2 Kurulumu &lpar;DaVinci Resolve&rpar;](https://yuceltoluyag.github.io/arch-linux-firecut-davinci-resolve-kurulumu/)
-- [Arch Linux&#39;ta EA SPORTS FC 27: Türkçe Spiker ve DragonRise Gamepad Rehberi](https://yuceltoluyag.github.io/arch-linux-dragonrise-gamepad-xbox-360-kontrolcu-sorunu/)
-- [Boşta Yatan Ekran Kartını Değerlendirmek: Nvidia VRAM&#39;i Linux&#39;ta Swap Yapmak &lpar;nbd-vram&rpar;](https://yuceltoluyag.github.io/nvidia-vram-swap-alani-nbd-vram/)
-- [Putting Idle VRAM to Work: Using Nvidia VRAM as Swap in Linux &lpar;nbd-vram&rpar;](https://yuceltoluyag.github.io/en/nvidia-vram-swap-alani-nbd-vram/)
+- [Arch Linux&#39;ta OpenShorts Kurulumu: Docker ve NVIDIA GPU](https://yuceltoluyag.github.io/arch-linux-openshorts-docker-nvidia-gpu-kurulumu/)
+- [Installing OpenShorts on Arch Linux with Docker and an NVIDIA GPU](https://yuceltoluyag.github.io/en/arch-linux-openshorts-docker-nvidia-gpu-kurulumu/)
+- [Redmi Note 12 Pro 5G crDroid&#39;de Telefon Başlatılıyor Ekranında Kalma Sorunu ve LSPosed Çözümü](https://yuceltoluyag.github.io/redmi-note-12-pro-crdroid-telefon-baslatiliyor-lsposed/)
+- [Redmi Note 12 Pro 5G Stuck on “Phone is starting” in crDroid: Fixing It with LSPosed](https://yuceltoluyag.github.io/en/redmi-note-12-pro-crdroid-telefon-baslatiliyor-lsposed/)
+- [crDroid&#39;de e-Devlet NFC Sorunu: MIUI İzin Kontrolünü İncelemek](https://yuceltoluyag.github.io/crdroid-e-devlet-nfc-miui-izin-sorunu/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
